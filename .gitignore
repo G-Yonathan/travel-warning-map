@@ -1,0 +1,6 @@
+.idea/
+
+scraper/venv
+scraper/__pycache__
+
+temp/
