@@ -3,7 +3,7 @@ import json
 import time
 import sys
 
-from lookup import GOV_API_DATA_PIC_NAME_TO_ISO, GOV_API_URLNAME_TO_ISO
+from lookup import GOV_API_DATA_PIC_NAME_TO_ISO, GOV_API_URLNAME_TO_ISO, GOV_API_DATA_COUNTRY_TO_HEBREW_NAME
 
 URL = "https://www.gov.il/he/api/DynamicCollector"
 TEMPLATE_ID = "a591accc-14b7-4be8-a7b7-395ca588db53"
@@ -55,14 +55,17 @@ def transform(records):
         urlname_raw = it.get("UrlName")
         details = it.get("Data", {}).get("details")
         other_url = it.get("Data", {}).get("other", {}).get("URL")
+        country = it.get("Data", {}).get("country", [[]])[0]
 
         warning_levels = GOV_API_DATA_PIC_NAME_TO_ISO.get(name_raw, name_raw)
         country_code = GOV_API_URLNAME_TO_ISO.get(urlname_raw, urlname_raw)
+        hebrew_name = GOV_API_DATA_COUNTRY_TO_HEBREW_NAME.get(country, "NA")
 
         out[country_code] = {
             "WarningLevels": warning_levels,
             "Details": details,
-            "URL": other_url
+            "URL": other_url,
+            "HebrewName": hebrew_name
         }
     return out
 
