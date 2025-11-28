@@ -1,0 +1,1605 @@
+[
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "UGA",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/1uganda"
+    },
+    {
+        "WarningLevels": [
+            3,
+            4
+        ],
+        "CountryCode": "UZB",
+        "Details": "מרחב משותף בגבול בין אוזבקיסטן לאפגניסטן: רמת איום גבוהה (רמה 4), ממליצים להימנע מהגעה של 30 קילומטר מהגבול. שאר שטחי המדינה: רמת איום בינונית (רמה 3) ומומלץ להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/uzbekistan1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "AUT",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/austria1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "AUS",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/australia1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "UKR",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/ukraine2"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "URY",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/uruguay1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "AZE",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/azerbaijan1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "ARE",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/unitedarabemirates1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "ITA",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/italy2"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "BHS",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/thebahamas1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "MHL",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/themarshalislands"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "SYC",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/seychelles2"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "SLB",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/solomonislands"
+    },
+    {
+        "WarningLevels": [
+            3,
+            4
+        ],
+        "CountryCode": "IDN",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: פפואה המערבית, איי סלוואסי, סומטרה,מחוז אצ'ה וחלקים מג'אווה. רמת איום בינונית (רמה 3) מומלץ להימנע מנסיעות שאינן חיוניות: שאר שטחי אינדונזיה.",
+        "URL": "https://www.gov.il/he/pages/indonesia2"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "ISL",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/iceland1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "IRN",
+        "Details": "חל איסור על הגעת ישראלים לאיראן. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של איראן.",
+        "URL": "https://www.gov.il/he/pages/iran2"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "IRL",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/ireland2"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "SLV",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/elsalvador1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "ALB",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/albania1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "DZA",
+        "Details": "יש להימנע מהגעה לאלג'יריה. כמו כן, מומלץ להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של אלג'יריה.",
+        "URL": "https://www.gov.il/he/pages/algeria1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "AGO",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/angola1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "AND",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/andorra1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "ATG",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/antiguaandbarbuda1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "EST",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/estonia1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "AFG",
+        "Details": "יש להימנע מהגעה לאפגניסטן. כמו כן, מומלץ להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של אפגניסטן.",
+        "URL": "https://www.gov.il/he/pages/afghanistan1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "ECU",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/ecuador1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "ARG",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/argentina2"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "ERI",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/eritrea1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "ARM",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/armenia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "USA",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/unitedstatesofamerica1"
+    },
+    {
+        "WarningLevels": [
+            1,
+            2
+        ],
+        "CountryCode": "ETH",
+        "Details": "איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: דרום ומזרח המדינה. ללא אזהרת מסע (רמה 1) מומלץ לנקוט באמצעי זהירות רגילים: שאר שטחי המדינה.",
+        "URL": "https://www.gov.il/he/pages/ethiopia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "BTN",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/bhutan1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "BGR",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/bulgaria1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "BOL",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/bolivia1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "BIH",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/bosniaherzegovina1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "BWA",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/botswana1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "BDI",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/burundi1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "BFA",
+        "Details": "להימנע מהגעה למדינה",
+        "URL": "https://www.gov.il/he/pages/burkinafaso1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "BHR",
+        "Details": "להימנע מהגעה",
+        "URL": "https://www.gov.il/he/pages/bahrain1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "BLR",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/belarus1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "BEL",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/belgium2"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "BLZ",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/belize1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "BGD",
+        "Details": "להימנע מכל ביקור/שהייה במדינה לאור נוכחות ופעילות של תומכי וחברי ארגוני ג'האד עולמי.",
+        "URL": "https://www.gov.il/he/pages/bangladesh1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "BEN",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: כ-30 ק\"מ מהגבול של בנין עם בורקינה פאסו. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה.",
+        "URL": "https://www.gov.il/he/pages/benin1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "BRB",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/barbados1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "BRN",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/brunei1"
+    },
+    {
+        "WarningLevels": [
+            1,
+            2
+        ],
+        "CountryCode": "BRA",
+        "Details": "איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: אזור משולש הגבולות ברזיל/ארגנטינה/פרגוואי. ללא אזהרת מסע (רמה 1) מומלץ לנקוט באמצעי זהירות רגילים: שאר שטחי המדינה.",
+        "URL": "https://www.gov.il/he/pages/brazil3"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "GBR",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/england1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "GAB",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/gabon1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "GEO",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/georgia1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "GHA",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/ghana1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "GTM",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/guatemala1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "GUY",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/guyana1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "DJI",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: כ-30 ק\"מ מהגבול של ג'יבוטי עם סומליה בדרום וכ-30 ק\"מ מהגבול של ג'יבוטי עם אריתריאה בצפון. רמת איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה.",
+        "URL": "https://www.gov.il/he/pages/djibouti1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "GIN",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/guinea1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "GNQ",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/equatorialguinea1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "GNB",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/guineabissau1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "JAM",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/jamaica1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "GMB",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/gambia1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "DEU",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/germany2"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "GRD",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/grenada1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "DMA",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/dominica1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "DNK",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/denmark1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "ZAF",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/southafrica2"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "SSD",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/southsudan1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "HTI",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/haiti1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "MDV",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/maldives1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "IND",
+        "Details": "רמת איום גבוהה (רמה 4) להימנע מכל ביקור/שהייה במדינה: חבל קשמיר, מלבד לדאק לאור איום טרור מוחשי וקונקרטי. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי הודו.",
+        "URL": "https://www.gov.il/he/pages/india1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "NLD",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/netherlands1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "HKG",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/hongkong1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "HUN",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/hungary1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "HND",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/honduras1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "DOM",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/dominicanrepublic1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "CAF",
+        "Details": "להימנע מכל ביקור/שהייה במדינה",
+        "URL": "https://www.gov.il/he/pages/centralafricanrepublic1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "COG",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/congorepublic1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "VNM",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/vietnam2"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "VAT",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/vatican1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "VUT",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/vanuatu1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "VEN",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: מרחב הגבול המשותף של ונצואלה עם קולומביה. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה",
+        "URL": "https://www.gov.il/he/pages/venezuela1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "ZWE",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/zimbabwe1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "ZMB",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/zambia1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "CIV",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/ivorycoast1"
+    },
+    {
+        "WarningLevels": [
+            3,
+            4
+        ],
+        "CountryCode": "TJK",
+        "Details": "רמת איום גבוהה (רמה 4): ממליצים להימנע מהגעה של 30 קילומטר מהגבול המשותף בין טג'יקיסטן לאפגניסטן לאור חשש ממשי כי גורמי טרור הפועלים באפגניסטן ינסו לפגוע/לחטוף תיירים, בהם ישראלים.  רמת איום בינונית (רמה 3) מומלץ להימנע מנסיעות שאינן חיוניות: שאר שטחי המדינה.",
+        "URL": "https://www.gov.il/he/pages/tajikistan1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "TUV",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/tuvalu1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "TGO",
+        "Details": "רמת איום גבוהה (רמה 4) להימנע מכל ביקור/שהייה במדינה: כ-30 ק\"מ מהגבול של טוגו עם בורקינה פאסו. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה.",
+        "URL": "https://www.gov.il/he/pages/togo1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "TON",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/tonga1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "TWN",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/taiwan1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "TZA",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/tanzania1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "TTO",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/trinidadandtobago1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "GRC",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/greece1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "JPN",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/japan3"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "JOR",
+        "Details": "אין להגיע למדינה זו ובמקרה של שהייה יש לעזוב את המדינה",
+        "URL": "https://www.gov.il/he/pages/jordan1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "KWT",
+        "Details": "להימנע מהגעה",
+        "URL": "https://www.gov.il/he/pages/kuwait1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "LAO",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/laos1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "LBN",
+        "Details": "חל איסור על הגעת ישראלים ללבנון. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של לבנון.",
+        "URL": "https://www.gov.il/he/pages/lebanon1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "LBY",
+        "Details": "יש להימנע מהגעה ללוב. כמו כן, מומלץ להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של לוב.",
+        "URL": "https://www.gov.il/he/pages/lybia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "LUX",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/luxembourg1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "LVA",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/latvia1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "LBR",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/liberia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "LTU",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/lithuania1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "LIE",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/liechtenstein1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "LSO",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/lesotho1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "MRT",
+        "Details": "להימנע מכל ביקור/שהייה במדינה",
+        "URL": "https://www.gov.il/he/pages/mauritania1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "MUS",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/mauritius1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "MLI",
+        "Details": "להימנע מהגעה",
+        "URL": "https://www.gov.il/he/pages/mali1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "MDG",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/madagascar1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "MOZ",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: צפון המדינה לאור פעילות טרור מצד קבוצות אסלאמיות קיצוניות באזור קאבו דלגדו. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי מוזמביק.",
+        "URL": "https://www.gov.il/he/pages/mozambique1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "MDA",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/moldova1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "MNG",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/mongolia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "MNE",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/montenegro1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "MCO",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/monaco1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "TLS",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/timor1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "MMR",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/myanmar1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "FSM",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/micronesia1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "MWI",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/malawi1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "MYS",
+        "Details": "להימנע מכל ביקור/שהייה במדינה",
+        "URL": "https://www.gov.il/he/pages/malaysia1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "MLT",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/malta1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "EGY",
+        "Details": "אין להגיע למדינה זו ובמקרה של שהייה יש לעזוב את המדינה",
+        "URL": "https://www.gov.il/he/pages/egypt1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "MEX",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/mexi1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "MAR",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/morocco1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "NRU",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/nauru1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "NOR",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/norway1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "NGA",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: צפון המדינה. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: דרום המדינה.",
+        "URL": "https://www.gov.il/he/pages/nigeria1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "NZL",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/newzealand1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "NER",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/niger1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "NIC",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/nicaragua1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "NAM",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/1namibia"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "NPL",
+        "Details": "לאור מהומות במדינה יש להתעדכן באזהרת המסע של משרד החוץ.",
+        "URL": "https://www.gov.il/he/pages/nepal1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "STP",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/saotomeandprincipe1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "SDN",
+        "Details": "להימנע מכל ביקור/שהייה במדינה",
+        "URL": "https://www.gov.il/he/pages/sudan1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "SWZ",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/swaziland1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "SOM",
+        "Details": "להימנע מהגעה",
+        "URL": "https://www.gov.il/he/pages/2somalia"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "SYR",
+        "Details": "חל איסור על הגעת ישראלים לסוריה. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של סוריה.",
+        "URL": "https://www.gov.il/he/pages/syria1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "SUR",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/surinam"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "SLE",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/sierraleone"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "CHN",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/china2"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "SGP",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/singapore1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "EGY",
+        "Details": "אין להגיע למדינה זו ובמקרה של שהייה יש לעזוב את המדינה",
+        "URL": "https://www.gov.il/he/pages/sinai1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "SVN",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/slovenia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "SVK",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/slovakia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "WSM",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/samoa1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "SMR",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/sanmarino1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "SEN",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/senegal1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "VCT",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/saintvincentandthegrenadines1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "LCA",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/saintlucia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "KNA",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/saintkittsandnevis1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "ESP",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/spain1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "SRB",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/serbia1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "LKA",
+        "Details": "רמת איום מזדמן (רמה 2): יש לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/1srilanka"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "OMN",
+        "Details": "להימנע מכל ביקור/שהייה במדינה.",
+        "URL": "https://www.gov.il/he/pages/oman1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "IRQ",
+        "Details": "חל איסור על הגעת ישראלים לעיראק, כולל החבל הכורדי. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של עיראק.",
+        "URL": "https://www.gov.il/he/pages/iraq1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "SAU",
+        "Details": "חל איסור על נסיעה",
+        "URL": "https://www.gov.il/he/pages/saudiarabia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "PLW",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/palau1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "POL",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/poland1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "PRT",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/portugal1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "FJI",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/fiji1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "PHL",
+        "Details": "רמת איום גבוהה (רמה 4)- דרום המדינה: מומלץ להימנע מהגעה למרחב מינדנאו וקבוצת איי סולו בשל נוכחות ופעילות של ארגוני טרור;  איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי הפיליפינים.",
+        "URL": "https://www.gov.il/he/pages/phillipines1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "FIN",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/finland1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "PAN",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/panama1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "PNG",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/papuanewguinea1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "PAK",
+        "Details": "יש להימנע מהגעה לפקיסטאן. כמו כן, מומלץ להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של פקיסטאן.",
+        "URL": "https://www.gov.il/he/pages/pakistan1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "PRY",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/paraguay1"
+    },
+    {
+        "WarningLevels": [
+            1,
+            3
+        ],
+        "CountryCode": "PER",
+        "Details": "ללא אזהרת מסע (רמה 1) מומלץ לנקוט באמצעי זהירות רגילים: רוב שטחי המדינה איום בינוני (רמה 3) מומלץ להימנע מנסיעות שאינן חיוניות: אזור באזור  VRAEM ולאורך הגבול עם קולומביה.",
+        "URL": "https://www.gov.il/he/pages/peru1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "MKD",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/northmacedonia1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "TCD",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/chad1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "CHL",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/chile1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "CZE",
+        "Details": "לנקוט האמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/czechrepublic1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "FRA",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/france1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "RUS",
+        "Details": "להימנע מהגעה",
+        "URL": "https://www.gov.il/he/pages/chechnyarussia"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "CUB",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://preview.newgov.gov.il/he/pages/cuba1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "COL",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/colombia1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "XKX",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/kosovo1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "CRI",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/costrica1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "COM",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/comoroislands"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "COD",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: מזרח המדינה, צפון המדינה ומחוזות קסאי בדרום. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי קונגו.",
+        "URL": "https://www.gov.il/he/pages/congo11"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "KOR",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/southkorea2"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "PRK",
+        "Details": "להימנע מהגעה ולשוהים במדינה לצאת לאלתר",
+        "URL": "https://www.gov.il/he/pages/northkorea1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "KAZ",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/kazakhstan1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "QAT",
+        "Details": "להימנע מכל ביקור/שהייה במדינה",
+        "URL": "https://www.gov.il/he/pages/qatar1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "CPV",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/capeverde1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "KGZ",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/kyrgyzstan1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "KIR",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/kiribati1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "KHM",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/cambodia1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "CMR",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: צפון המדינה לאור נוכחות ארגון הטרור \"בוקו חראם\". איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה.",
+        "URL": "https://preview.newgov.gov.il/he/pages/cameroon"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "CAN",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/canada1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            3
+        ],
+        "CountryCode": "KEN",
+        "Details": "רמת איום בינונית (רמה 3) מומלץ להימנע מנסיעות שאינן חיוניות לצפון ומזרח המדינה (אזור הגבול עם סומליה ורצועת החוף עד מלינדי-כולל), לאור נוכחות ארגוני טרור אסלאמי (אלשבאב הסומלי); איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר חלקי המדינה.",
+        "URL": "https://www.gov.il/he/pages/kenya1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "CYP",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/cyprus1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "HRV",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/croatia1"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "RWA",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/rwanda1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "ROU",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/romania1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "RUS",
+        "Details": "רמת איום גבוהה (רמה 4) לא להגיע לאזור צפון הקווקז, איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים בשאר שטחי המדינה",
+        "URL": "https://www.gov.il/he/pages/russia2"
+    },
+    {
+        "WarningLevels": [
+            2
+        ],
+        "CountryCode": "SWE",
+        "Details": "לנקוט באמצעי זהירות מוגברים",
+        "URL": "https://www.gov.il/he/pages/sweden1"
+    },
+    {
+        "WarningLevels": [
+            1
+        ],
+        "CountryCode": "CHE",
+        "Details": "לנקוט באמצעי זהירות רגילים",
+        "URL": "https://www.gov.il/he/pages/switzerland1"
+    },
+    {
+        "WarningLevels": [
+            2,
+            4
+        ],
+        "CountryCode": "THA",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה דרום המדינה (לא כולל האיים). איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי תאילנד.",
+        "URL": "https://www.gov.il/he/pages/thailand1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "TUN",
+        "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: לאור חשש מפעילות ארגוני טרור בפרט במערב המדינה, המרחב הסמוך לגבולות עם אלג'יריה ולוב ושטחי דרום המדינה.",
+        "URL": "https://www.gov.il/he/pages/1tunisia"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "TUR",
+        "Details": "אין להגיע למדינה זו ובמקרה של שהייה יש לעזוב את המדינה",
+        "URL": "https://www.gov.il/he/pages/turkey1"
+    },
+    {
+        "WarningLevels": [
+            3
+        ],
+        "CountryCode": "TKM",
+        "Details": "להימנע מנסיעות שאינן חיוניות",
+        "URL": "https://www.gov.il/he/pages/turkmenistan1"
+    },
+    {
+        "WarningLevels": [
+            4
+        ],
+        "CountryCode": "YEM",
+        "Details": "חל איסור על הגעת ישראלים לתימן. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של תימן.",
+        "URL": "https://www.gov.il/he/pages/yemen1"
+    }
+]
