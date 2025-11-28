@@ -49,7 +49,7 @@ def scrape():
 
 
 def transform(records):
-    out = []
+    out = {}
     for it in records:
         name_raw = it.get("Data", {}).get("pic", {}).get("Name")
         urlname_raw = it.get("UrlName")
@@ -59,12 +59,11 @@ def transform(records):
         warning_levels = GOV_API_DATA_PIC_NAME_TO_ISO.get(name_raw, name_raw)
         country_code = GOV_API_URLNAME_TO_ISO.get(urlname_raw, urlname_raw)
 
-        out.append({
+        out[country_code] = {
             "WarningLevels": warning_levels,
-            "CountryCode": country_code,
             "Details": details,
             "URL": other_url
-        })
+        }
     return out
 
 
