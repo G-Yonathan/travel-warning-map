@@ -5,7 +5,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/1uganda",
-        "HebrewName": "אוגנדה"
+        "HebrewName": "אוגנדה",
+        "EnglishName": "Uganda"
     },
     "UZB": {
         "WarningLevels": [
@@ -14,7 +15,8 @@
         ],
         "Details": "מרחב משותף בגבול בין אוזבקיסטן לאפגניסטן: רמת איום גבוהה (רמה 4), ממליצים להימנע מהגעה של 30 קילומטר מהגבול. שאר שטחי המדינה: רמת איום בינונית (רמה 3) ומומלץ להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/uzbekistan1",
-        "HebrewName": "אוזבקיסטן"
+        "HebrewName": "אוזבקיסטן",
+        "EnglishName": "Uzbekistan"
     },
     "AUT": {
         "WarningLevels": [
@@ -22,7 +24,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/austria1",
-        "HebrewName": "אוסטריה"
+        "HebrewName": "אוסטריה",
+        "EnglishName": "Austria"
     },
     "AUS": {
         "WarningLevels": [
@@ -30,7 +33,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/australia1",
-        "HebrewName": "אוסטרליה"
+        "HebrewName": "אוסטרליה",
+        "EnglishName": "Australia"
     },
     "UKR": {
         "WarningLevels": [
@@ -38,7 +42,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/ukraine2",
-        "HebrewName": "אוקראינה"
+        "HebrewName": "אוקראינה",
+        "EnglishName": "Ukraine"
     },
     "URY": {
         "WarningLevels": [
@@ -46,7 +51,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/uruguay1",
-        "HebrewName": "אורוגואי"
+        "HebrewName": "אורוגואי",
+        "EnglishName": "Uruguay"
     },
     "AZE": {
         "WarningLevels": [
@@ -54,7 +60,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/azerbaijan1",
-        "HebrewName": "אזרביג'אן"
+        "HebrewName": "אזרביג'אן",
+        "EnglishName": "Azerbaijan"
     },
     "ARE": {
         "WarningLevels": [
@@ -62,7 +69,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/unitedarabemirates1",
-        "HebrewName": "איחוד האמירויות הערביות"
+        "HebrewName": "איחוד האמירויות הערביות",
+        "EnglishName": "United Arab Emirates"
     },
     "ITA": {
         "WarningLevels": [
@@ -70,7 +78,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/italy2",
-        "HebrewName": "איטליה"
+        "HebrewName": "איטליה",
+        "EnglishName": "Italy"
     },
     "BHS": {
         "WarningLevels": [
@@ -78,7 +87,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/thebahamas1",
-        "HebrewName": "איי בהאמה"
+        "HebrewName": "איי בהאמה",
+        "EnglishName": "Bahamas"
     },
     "MHL": {
         "WarningLevels": [
@@ -86,7 +96,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/themarshalislands",
-        "HebrewName": "איי מרשל"
+        "HebrewName": "איי מרשל",
+        "EnglishName": "Marshall Islands"
     },
     "SYC": {
         "WarningLevels": [
@@ -94,7 +105,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/seychelles2",
-        "HebrewName": "איי סיישל"
+        "HebrewName": "איי סיישל",
+        "EnglishName": "Seychelles"
     },
     "SLB": {
         "WarningLevels": [
@@ -102,7 +114,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/solomonislands",
-        "HebrewName": "איי שלמה"
+        "HebrewName": "איי שלמה",
+        "EnglishName": "Solomon Islands"
     },
     "IDN": {
         "WarningLevels": [
@@ -111,7 +124,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: פפואה המערבית, איי סלוואסי, סומטרה,מחוז אצ'ה וחלקים מג'אווה. רמת איום בינונית (רמה 3) מומלץ להימנע מנסיעות שאינן חיוניות: שאר שטחי אינדונזיה.",
         "URL": "https://www.gov.il/he/pages/indonesia2",
-        "HebrewName": "אינדונזיה"
+        "HebrewName": "אינדונזיה",
+        "EnglishName": "Indonesia"
     },
     "ISL": {
         "WarningLevels": [
@@ -119,7 +133,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/iceland1",
-        "HebrewName": "איסלנד"
+        "HebrewName": "איסלנד",
+        "EnglishName": "Iceland"
     },
     "IRN": {
         "WarningLevels": [
@@ -127,7 +142,8 @@
         ],
         "Details": "חל איסור על הגעת ישראלים לאיראן. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של איראן.",
         "URL": "https://www.gov.il/he/pages/iran2",
-        "HebrewName": "איראן"
+        "HebrewName": "איראן",
+        "EnglishName": "Iran"
     },
     "IRL": {
         "WarningLevels": [
@@ -135,7 +151,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/ireland2",
-        "HebrewName": "אירלנד"
+        "HebrewName": "אירלנד",
+        "EnglishName": "Ireland"
     },
     "SLV": {
         "WarningLevels": [
@@ -143,7 +160,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/elsalvador1",
-        "HebrewName": "אל סלבדור"
+        "HebrewName": "אל סלבדור",
+        "EnglishName": "El Salvador"
     },
     "ALB": {
         "WarningLevels": [
@@ -151,7 +169,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/albania1",
-        "HebrewName": "אלבניה"
+        "HebrewName": "אלבניה",
+        "EnglishName": "Albania"
     },
     "DZA": {
         "WarningLevels": [
@@ -159,7 +178,8 @@
         ],
         "Details": "יש להימנע מהגעה לאלג'יריה. כמו כן, מומלץ להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של אלג'יריה.",
         "URL": "https://www.gov.il/he/pages/algeria1",
-        "HebrewName": "אלג'יריה"
+        "HebrewName": "אלג'יריה",
+        "EnglishName": "Algeria"
     },
     "AGO": {
         "WarningLevels": [
@@ -167,7 +187,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/angola1",
-        "HebrewName": "אנגולה"
+        "HebrewName": "אנגולה",
+        "EnglishName": "Angola"
     },
     "AND": {
         "WarningLevels": [
@@ -175,7 +196,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/andorra1",
-        "HebrewName": "אנדורה"
+        "HebrewName": "אנדורה",
+        "EnglishName": "Andorra"
     },
     "ATG": {
         "WarningLevels": [
@@ -183,7 +205,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/antiguaandbarbuda1",
-        "HebrewName": "אנטיגואה וברבודה"
+        "HebrewName": "אנטיגואה וברבודה",
+        "EnglishName": "Antigua and Barbuda"
     },
     "EST": {
         "WarningLevels": [
@@ -191,7 +214,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/estonia1",
-        "HebrewName": "אסטוניה"
+        "HebrewName": "אסטוניה",
+        "EnglishName": "Estonia"
     },
     "AFG": {
         "WarningLevels": [
@@ -199,7 +223,8 @@
         ],
         "Details": "יש להימנע מהגעה לאפגניסטן. כמו כן, מומלץ להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של אפגניסטן.",
         "URL": "https://www.gov.il/he/pages/afghanistan1",
-        "HebrewName": "אפגניסטן"
+        "HebrewName": "אפגניסטן",
+        "EnglishName": "Afghanistan"
     },
     "ECU": {
         "WarningLevels": [
@@ -207,7 +232,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/ecuador1",
-        "HebrewName": "אקוואדור"
+        "HebrewName": "אקוואדור",
+        "EnglishName": "Ecuador"
     },
     "ARG": {
         "WarningLevels": [
@@ -215,7 +241,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/argentina2",
-        "HebrewName": "ארגנטינה"
+        "HebrewName": "ארגנטינה",
+        "EnglishName": "Argentina"
     },
     "ERI": {
         "WarningLevels": [
@@ -223,7 +250,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/eritrea1",
-        "HebrewName": "אריתריאה"
+        "HebrewName": "אריתריאה",
+        "EnglishName": "Eritrea"
     },
     "ARM": {
         "WarningLevels": [
@@ -231,7 +259,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/armenia1",
-        "HebrewName": "ארמניה"
+        "HebrewName": "ארמניה",
+        "EnglishName": "Armenia"
     },
     "USA": {
         "WarningLevels": [
@@ -239,7 +268,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/unitedstatesofamerica1",
-        "HebrewName": "ארצות הברית"
+        "HebrewName": "ארצות הברית",
+        "EnglishName": "United States"
     },
     "ETH": {
         "WarningLevels": [
@@ -248,7 +278,8 @@
         ],
         "Details": "איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: דרום ומזרח המדינה. ללא אזהרת מסע (רמה 1) מומלץ לנקוט באמצעי זהירות רגילים: שאר שטחי המדינה.",
         "URL": "https://www.gov.il/he/pages/ethiopia1",
-        "HebrewName": "אתיופיה"
+        "HebrewName": "אתיופיה",
+        "EnglishName": "Ethiopia"
     },
     "BTN": {
         "WarningLevels": [
@@ -256,7 +287,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/bhutan1",
-        "HebrewName": "בהוטן"
+        "HebrewName": "בהוטן",
+        "EnglishName": "Bhutan"
     },
     "BGR": {
         "WarningLevels": [
@@ -264,7 +296,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/bulgaria1",
-        "HebrewName": "בולגריה"
+        "HebrewName": "בולגריה",
+        "EnglishName": "Bulgaria"
     },
     "BOL": {
         "WarningLevels": [
@@ -272,7 +305,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/bolivia1",
-        "HebrewName": "בוליביה"
+        "HebrewName": "בוליביה",
+        "EnglishName": "Bolivia"
     },
     "BIH": {
         "WarningLevels": [
@@ -280,7 +314,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/bosniaherzegovina1",
-        "HebrewName": "בוסניה הרצגובינה"
+        "HebrewName": "בוסניה הרצגובינה",
+        "EnglishName": "Bosnia and Herzegovina"
     },
     "BWA": {
         "WarningLevels": [
@@ -288,7 +323,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/botswana1",
-        "HebrewName": "בוטסואנה"
+        "HebrewName": "בוטסואנה",
+        "EnglishName": "Botswana"
     },
     "BDI": {
         "WarningLevels": [
@@ -296,7 +332,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/burundi1",
-        "HebrewName": "בורונדי"
+        "HebrewName": "בורונדי",
+        "EnglishName": "Burundi"
     },
     "BFA": {
         "WarningLevels": [
@@ -304,7 +341,8 @@
         ],
         "Details": "להימנע מהגעה למדינה",
         "URL": "https://www.gov.il/he/pages/burkinafaso1",
-        "HebrewName": "בורקינה פאסו"
+        "HebrewName": "בורקינה פאסו",
+        "EnglishName": "Burkina Faso"
     },
     "BHR": {
         "WarningLevels": [
@@ -312,7 +350,8 @@
         ],
         "Details": "להימנע מהגעה",
         "URL": "https://www.gov.il/he/pages/bahrain1",
-        "HebrewName": "בחריין"
+        "HebrewName": "בחריין",
+        "EnglishName": "Bahrain"
     },
     "BLR": {
         "WarningLevels": [
@@ -320,7 +359,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/belarus1",
-        "HebrewName": "בלארוס"
+        "HebrewName": "בלארוס",
+        "EnglishName": "Belarus"
     },
     "BEL": {
         "WarningLevels": [
@@ -328,7 +368,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/belgium2",
-        "HebrewName": "בלגיה"
+        "HebrewName": "בלגיה",
+        "EnglishName": "Belgium"
     },
     "BLZ": {
         "WarningLevels": [
@@ -336,7 +377,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/belize1",
-        "HebrewName": "בליז"
+        "HebrewName": "בליז",
+        "EnglishName": "Belize"
     },
     "BGD": {
         "WarningLevels": [
@@ -344,7 +386,8 @@
         ],
         "Details": "להימנע מכל ביקור/שהייה במדינה לאור נוכחות ופעילות של תומכי וחברי ארגוני ג'האד עולמי.",
         "URL": "https://www.gov.il/he/pages/bangladesh1",
-        "HebrewName": "בנגלדש"
+        "HebrewName": "בנגלדש",
+        "EnglishName": "Bangladesh"
     },
     "BEN": {
         "WarningLevels": [
@@ -353,7 +396,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: כ-30 ק\"מ מהגבול של בנין עם בורקינה פאסו. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה.",
         "URL": "https://www.gov.il/he/pages/benin1",
-        "HebrewName": "בנין"
+        "HebrewName": "בנין",
+        "EnglishName": "Benin"
     },
     "BRB": {
         "WarningLevels": [
@@ -361,7 +405,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/barbados1",
-        "HebrewName": "ברבדוס"
+        "HebrewName": "ברבדוס",
+        "EnglishName": "Barbados"
     },
     "BRN": {
         "WarningLevels": [
@@ -369,7 +414,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/brunei1",
-        "HebrewName": "ברוניי"
+        "HebrewName": "ברוניי",
+        "EnglishName": "Brunei"
     },
     "BRA": {
         "WarningLevels": [
@@ -378,7 +424,8 @@
         ],
         "Details": "איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: אזור משולש הגבולות ברזיל/ארגנטינה/פרגוואי. ללא אזהרת מסע (רמה 1) מומלץ לנקוט באמצעי זהירות רגילים: שאר שטחי המדינה.",
         "URL": "https://www.gov.il/he/pages/brazil3",
-        "HebrewName": "ברזיל"
+        "HebrewName": "ברזיל",
+        "EnglishName": "Brazil"
     },
     "GBR": {
         "WarningLevels": [
@@ -386,7 +433,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/england1",
-        "HebrewName": "בריטניה"
+        "HebrewName": "בריטניה",
+        "EnglishName": "United Kingdom"
     },
     "GAB": {
         "WarningLevels": [
@@ -394,7 +442,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/gabon1",
-        "HebrewName": "גאבון"
+        "HebrewName": "גאבון",
+        "EnglishName": "Gabon"
     },
     "GEO": {
         "WarningLevels": [
@@ -402,7 +451,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/georgia1",
-        "HebrewName": "גאורגיה"
+        "HebrewName": "גאורגיה",
+        "EnglishName": "Georgia"
     },
     "GHA": {
         "WarningLevels": [
@@ -410,7 +460,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/ghana1",
-        "HebrewName": "גאנה"
+        "HebrewName": "גאנה",
+        "EnglishName": "Ghana"
     },
     "GTM": {
         "WarningLevels": [
@@ -418,7 +469,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/guatemala1",
-        "HebrewName": "גווטמלה"
+        "HebrewName": "גווטמלה",
+        "EnglishName": "Guatemala"
     },
     "GUY": {
         "WarningLevels": [
@@ -426,7 +478,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/guyana1",
-        "HebrewName": "גויאנה"
+        "HebrewName": "גויאנה",
+        "EnglishName": "Guyana"
     },
     "DJI": {
         "WarningLevels": [
@@ -435,7 +488,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: כ-30 ק\"מ מהגבול של ג'יבוטי עם סומליה בדרום וכ-30 ק\"מ מהגבול של ג'יבוטי עם אריתריאה בצפון. רמת איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה.",
         "URL": "https://www.gov.il/he/pages/djibouti1",
-        "HebrewName": "ג'יבוטי"
+        "HebrewName": "ג'יבוטי",
+        "EnglishName": "Djibouti"
     },
     "GIN": {
         "WarningLevels": [
@@ -443,7 +497,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/guinea1",
-        "HebrewName": "גינאה"
+        "HebrewName": "גינאה",
+        "EnglishName": "Guinea"
     },
     "GNQ": {
         "WarningLevels": [
@@ -451,7 +506,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/equatorialguinea1",
-        "HebrewName": "גינאה המשוונית"
+        "HebrewName": "גינאה המשוונית",
+        "EnglishName": "Equatorial Guinea"
     },
     "GNB": {
         "WarningLevels": [
@@ -459,7 +515,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/guineabissau1",
-        "HebrewName": "גינאה-ביסאו"
+        "HebrewName": "גינאה-ביסאו",
+        "EnglishName": "Guinea-Bissau"
     },
     "JAM": {
         "WarningLevels": [
@@ -467,7 +524,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/jamaica1",
-        "HebrewName": "ג'מאיקה"
+        "HebrewName": "ג'מאיקה",
+        "EnglishName": "Jamaica"
     },
     "GMB": {
         "WarningLevels": [
@@ -475,7 +533,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/gambia1",
-        "HebrewName": "גמביה"
+        "HebrewName": "גמביה",
+        "EnglishName": "The Gambia"
     },
     "DEU": {
         "WarningLevels": [
@@ -483,7 +542,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/germany2",
-        "HebrewName": "גרמניה"
+        "HebrewName": "גרמניה",
+        "EnglishName": "Germany"
     },
     "GRD": {
         "WarningLevels": [
@@ -491,7 +551,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/grenada1",
-        "HebrewName": "גרנדה"
+        "HebrewName": "גרנדה",
+        "EnglishName": "Grenada"
     },
     "DMA": {
         "WarningLevels": [
@@ -499,7 +560,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/dominica1",
-        "HebrewName": "דומיניקה"
+        "HebrewName": "דומיניקה",
+        "EnglishName": "Dominica"
     },
     "DNK": {
         "WarningLevels": [
@@ -507,7 +569,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/denmark1",
-        "HebrewName": "דנמרק"
+        "HebrewName": "דנמרק",
+        "EnglishName": "Denmark"
     },
     "ZAF": {
         "WarningLevels": [
@@ -515,7 +578,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/southafrica2",
-        "HebrewName": "דרום אפריקה"
+        "HebrewName": "דרום אפריקה",
+        "EnglishName": "South Africa"
     },
     "SSD": {
         "WarningLevels": [
@@ -523,7 +587,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/southsudan1",
-        "HebrewName": "דרום סודאן"
+        "HebrewName": "דרום סודאן",
+        "EnglishName": "South Sudan"
     },
     "HTI": {
         "WarningLevels": [
@@ -531,7 +596,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/haiti1",
-        "HebrewName": "האיטי"
+        "HebrewName": "האיטי",
+        "EnglishName": "Haiti"
     },
     "MDV": {
         "WarningLevels": [
@@ -539,7 +605,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/maldives1",
-        "HebrewName": "האיים המלדיביים"
+        "HebrewName": "האיים המלדיביים",
+        "EnglishName": "Maldives"
     },
     "IND": {
         "WarningLevels": [
@@ -548,7 +615,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) להימנע מכל ביקור/שהייה במדינה: חבל קשמיר, מלבד לדאק לאור איום טרור מוחשי וקונקרטי. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי הודו.",
         "URL": "https://www.gov.il/he/pages/india1",
-        "HebrewName": "הודו"
+        "HebrewName": "הודו",
+        "EnglishName": "India"
     },
     "NLD": {
         "WarningLevels": [
@@ -556,7 +624,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/netherlands1",
-        "HebrewName": "הולנד"
+        "HebrewName": "הולנד",
+        "EnglishName": "Netherlands"
     },
     "HKG": {
         "WarningLevels": [
@@ -564,7 +633,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/hongkong1",
-        "HebrewName": "הונג קונג"
+        "HebrewName": "הונג קונג",
+        "EnglishName": "Hong Kong"
     },
     "HUN": {
         "WarningLevels": [
@@ -572,7 +642,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/hungary1",
-        "HebrewName": "הונגריה"
+        "HebrewName": "הונגריה",
+        "EnglishName": "Hungary"
     },
     "HND": {
         "WarningLevels": [
@@ -580,7 +651,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/honduras1",
-        "HebrewName": "הונדורס"
+        "HebrewName": "הונדורס",
+        "EnglishName": "Honduras"
     },
     "DOM": {
         "WarningLevels": [
@@ -588,7 +660,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/dominicanrepublic1",
-        "HebrewName": "הרפובליקה הדומיניקנית"
+        "HebrewName": "הרפובליקה הדומיניקנית",
+        "EnglishName": "Dominican Republic"
     },
     "CAF": {
         "WarningLevels": [
@@ -596,7 +669,8 @@
         ],
         "Details": "להימנע מכל ביקור/שהייה במדינה",
         "URL": "https://www.gov.il/he/pages/centralafricanrepublic1",
-        "HebrewName": "הרפובליקה המרכז אפריקנית"
+        "HebrewName": "הרפובליקה המרכז אפריקנית",
+        "EnglishName": "Central African Republic"
     },
     "COG": {
         "WarningLevels": [
@@ -604,7 +678,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/congorepublic1",
-        "HebrewName": "הרפובליקה של קונגו "
+        "HebrewName": "הרפובליקה של קונגו",
+        "EnglishName": "Republic of the Congo"
     },
     "VNM": {
         "WarningLevels": [
@@ -612,7 +687,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/vietnam2",
-        "HebrewName": "וייטנאם"
+        "HebrewName": "וייטנאם",
+        "EnglishName": "Vietnam"
     },
     "VAT": {
         "WarningLevels": [
@@ -620,7 +696,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/vatican1",
-        "HebrewName": "וותיקן"
+        "HebrewName": "וותיקן",
+        "EnglishName": "Vatican City"
     },
     "VUT": {
         "WarningLevels": [
@@ -628,7 +705,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/vanuatu1",
-        "HebrewName": "ונואטו"
+        "HebrewName": "ונואטו",
+        "EnglishName": "Vanuatu"
     },
     "VEN": {
         "WarningLevels": [
@@ -637,7 +715,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: מרחב הגבול המשותף של ונצואלה עם קולומביה. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה",
         "URL": "https://www.gov.il/he/pages/venezuela1",
-        "HebrewName": "ונצואלה"
+        "HebrewName": "ונצואלה",
+        "EnglishName": "Venezuela"
     },
     "ZWE": {
         "WarningLevels": [
@@ -645,7 +724,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/zimbabwe1",
-        "HebrewName": "זימבבואה"
+        "HebrewName": "זימבבואה",
+        "EnglishName": "Zimbabwe"
     },
     "ZMB": {
         "WarningLevels": [
@@ -653,7 +733,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/zambia1",
-        "HebrewName": "זמביה"
+        "HebrewName": "זמביה",
+        "EnglishName": "Zambia"
     },
     "CIV": {
         "WarningLevels": [
@@ -661,7 +742,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/ivorycoast1",
-        "HebrewName": "חוף השנהב"
+        "HebrewName": "חוף השנהב",
+        "EnglishName": "Ivory Coast"
     },
     "TJK": {
         "WarningLevels": [
@@ -670,7 +752,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4): ממליצים להימנע מהגעה של 30 קילומטר מהגבול המשותף בין טג'יקיסטן לאפגניסטן לאור חשש ממשי כי גורמי טרור הפועלים באפגניסטן ינסו לפגוע/לחטוף תיירים, בהם ישראלים.  רמת איום בינונית (רמה 3) מומלץ להימנע מנסיעות שאינן חיוניות: שאר שטחי המדינה.",
         "URL": "https://www.gov.il/he/pages/tajikistan1",
-        "HebrewName": "טג'יקיסטאן"
+        "HebrewName": "טג'יקיסטאן",
+        "EnglishName": "Tajikistan"
     },
     "TUV": {
         "WarningLevels": [
@@ -678,7 +761,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/tuvalu1",
-        "HebrewName": "טובאלו"
+        "HebrewName": "טובאלו",
+        "EnglishName": "Tuvalu"
     },
     "TGO": {
         "WarningLevels": [
@@ -687,7 +771,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) להימנע מכל ביקור/שהייה במדינה: כ-30 ק\"מ מהגבול של טוגו עם בורקינה פאסו. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה.",
         "URL": "https://www.gov.il/he/pages/togo1",
-        "HebrewName": "טוגו"
+        "HebrewName": "טוגו",
+        "EnglishName": "Togo"
     },
     "TON": {
         "WarningLevels": [
@@ -695,7 +780,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/tonga1",
-        "HebrewName": "טונגה"
+        "HebrewName": "טונגה",
+        "EnglishName": "Tonga"
     },
     "TWN": {
         "WarningLevels": [
@@ -703,7 +789,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/taiwan1",
-        "HebrewName": "טייואן"
+        "HebrewName": "טייואן",
+        "EnglishName": "Taiwan"
     },
     "TZA": {
         "WarningLevels": [
@@ -711,7 +798,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/tanzania1",
-        "HebrewName": "טנזניה"
+        "HebrewName": "טנזניה",
+        "EnglishName": "Tanzania"
     },
     "TTO": {
         "WarningLevels": [
@@ -719,7 +807,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/trinidadandtobago1",
-        "HebrewName": "טרינידד וטובגו"
+        "HebrewName": "טרינידד וטובגו",
+        "EnglishName": "Trinidad and Tobago"
     },
     "GRC": {
         "WarningLevels": [
@@ -727,7 +816,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/greece1",
-        "HebrewName": "יוון"
+        "HebrewName": "יוון",
+        "EnglishName": "Greece"
     },
     "JPN": {
         "WarningLevels": [
@@ -735,7 +825,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/japan3",
-        "HebrewName": "יפן"
+        "HebrewName": "יפן",
+        "EnglishName": "Japan"
     },
     "JOR": {
         "WarningLevels": [
@@ -743,7 +834,8 @@
         ],
         "Details": "אין להגיע למדינה זו ובמקרה של שהייה יש לעזוב את המדינה",
         "URL": "https://www.gov.il/he/pages/jordan1",
-        "HebrewName": "ירדן"
+        "HebrewName": "ירדן",
+        "EnglishName": "Jordan"
     },
     "KWT": {
         "WarningLevels": [
@@ -751,7 +843,8 @@
         ],
         "Details": "להימנע מהגעה",
         "URL": "https://www.gov.il/he/pages/kuwait1",
-        "HebrewName": "כווית"
+        "HebrewName": "כווית",
+        "EnglishName": "Kuwait"
     },
     "LAO": {
         "WarningLevels": [
@@ -759,7 +852,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/laos1",
-        "HebrewName": "לאוס"
+        "HebrewName": "לאוס",
+        "EnglishName": "Laos"
     },
     "LBN": {
         "WarningLevels": [
@@ -767,7 +861,8 @@
         ],
         "Details": "חל איסור על הגעת ישראלים ללבנון. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של לבנון.",
         "URL": "https://www.gov.il/he/pages/lebanon1",
-        "HebrewName": "לבנון"
+        "HebrewName": "לבנון",
+        "EnglishName": "Lebanon"
     },
     "LBY": {
         "WarningLevels": [
@@ -775,7 +870,8 @@
         ],
         "Details": "יש להימנע מהגעה ללוב. כמו כן, מומלץ להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של לוב.",
         "URL": "https://www.gov.il/he/pages/lybia1",
-        "HebrewName": "לוב"
+        "HebrewName": "לוב",
+        "EnglishName": "Libya"
     },
     "LUX": {
         "WarningLevels": [
@@ -783,7 +879,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/luxembourg1",
-        "HebrewName": "לוקסמבורג"
+        "HebrewName": "לוקסמבורג",
+        "EnglishName": "Luxembourg"
     },
     "LVA": {
         "WarningLevels": [
@@ -791,7 +888,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/latvia1",
-        "HebrewName": "לטביה"
+        "HebrewName": "לטביה",
+        "EnglishName": "Latvia"
     },
     "LBR": {
         "WarningLevels": [
@@ -799,7 +897,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/liberia1",
-        "HebrewName": "ליבריה"
+        "HebrewName": "ליבריה",
+        "EnglishName": "Liberia"
     },
     "LTU": {
         "WarningLevels": [
@@ -807,7 +906,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/lithuania1",
-        "HebrewName": "ליטא"
+        "HebrewName": "ליטא",
+        "EnglishName": "Lithuania"
     },
     "LIE": {
         "WarningLevels": [
@@ -815,7 +915,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/liechtenstein1",
-        "HebrewName": "ליכטנשטיין"
+        "HebrewName": "ליכטנשטיין",
+        "EnglishName": "Liechtenstein"
     },
     "LSO": {
         "WarningLevels": [
@@ -823,7 +924,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/lesotho1",
-        "HebrewName": "לסוטו"
+        "HebrewName": "לסוטו",
+        "EnglishName": "Lesotho"
     },
     "MRT": {
         "WarningLevels": [
@@ -831,7 +933,8 @@
         ],
         "Details": "להימנע מכל ביקור/שהייה במדינה",
         "URL": "https://www.gov.il/he/pages/mauritania1",
-        "HebrewName": "מאוריטניה"
+        "HebrewName": "מאוריטניה",
+        "EnglishName": "Mauritania"
     },
     "MUS": {
         "WarningLevels": [
@@ -839,7 +942,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/mauritius1",
-        "HebrewName": "מאוריציוס"
+        "HebrewName": "מאוריציוס",
+        "EnglishName": "Mauritius"
     },
     "MLI": {
         "WarningLevels": [
@@ -847,7 +951,8 @@
         ],
         "Details": "להימנע מהגעה",
         "URL": "https://www.gov.il/he/pages/mali1",
-        "HebrewName": "מאלי"
+        "HebrewName": "מאלי",
+        "EnglishName": "Mali"
     },
     "MDG": {
         "WarningLevels": [
@@ -855,7 +960,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/madagascar1",
-        "HebrewName": "מדגסקר"
+        "HebrewName": "מדגסקר",
+        "EnglishName": "Madagascar"
     },
     "MOZ": {
         "WarningLevels": [
@@ -864,7 +970,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: צפון המדינה לאור פעילות טרור מצד קבוצות אסלאמיות קיצוניות באזור קאבו דלגדו. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי מוזמביק.",
         "URL": "https://www.gov.il/he/pages/mozambique1",
-        "HebrewName": "מוזמביק"
+        "HebrewName": "מוזמביק",
+        "EnglishName": "Mozambique"
     },
     "MDA": {
         "WarningLevels": [
@@ -872,7 +979,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/moldova1",
-        "HebrewName": "מולדובה"
+        "HebrewName": "מולדובה",
+        "EnglishName": "Moldova"
     },
     "MNG": {
         "WarningLevels": [
@@ -880,7 +988,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/mongolia1",
-        "HebrewName": "מונגוליה"
+        "HebrewName": "מונגוליה",
+        "EnglishName": "Mongolia"
     },
     "MNE": {
         "WarningLevels": [
@@ -888,7 +997,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/montenegro1",
-        "HebrewName": "מונטנגרו"
+        "HebrewName": "מונטנגרו",
+        "EnglishName": "Montenegro"
     },
     "MCO": {
         "WarningLevels": [
@@ -896,7 +1006,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/monaco1",
-        "HebrewName": "מונקו"
+        "HebrewName": "מונקו",
+        "EnglishName": "Monaco"
     },
     "TLS": {
         "WarningLevels": [
@@ -904,7 +1015,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/timor1",
-        "HebrewName": "מזרח טימור (הרפובליקה הדמוקרטית)"
+        "HebrewName": "מזרח טימור (הרפובליקה הדמוקרטית)",
+        "EnglishName": "East Timor"
     },
     "MMR": {
         "WarningLevels": [
@@ -912,7 +1024,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/myanmar1",
-        "HebrewName": "מיאנמר"
+        "HebrewName": "מיאנמר",
+        "EnglishName": "Myanmar"
     },
     "FSM": {
         "WarningLevels": [
@@ -920,7 +1033,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/micronesia1",
-        "HebrewName": "מיקרונזיה"
+        "HebrewName": "מיקרונזיה",
+        "EnglishName": "Micronesia"
     },
     "MWI": {
         "WarningLevels": [
@@ -928,7 +1042,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/malawi1",
-        "HebrewName": "מלאווי"
+        "HebrewName": "מלאווי",
+        "EnglishName": "Malawi"
     },
     "MYS": {
         "WarningLevels": [
@@ -936,7 +1051,8 @@
         ],
         "Details": "להימנע מכל ביקור/שהייה במדינה",
         "URL": "https://www.gov.il/he/pages/malaysia1",
-        "HebrewName": "מלזיה"
+        "HebrewName": "מלזיה",
+        "EnglishName": "Malaysia"
     },
     "MLT": {
         "WarningLevels": [
@@ -944,7 +1060,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/malta1",
-        "HebrewName": "מלטה"
+        "HebrewName": "מלטה",
+        "EnglishName": "Malta"
     },
     "EGY": {
         "WarningLevels": [
@@ -952,7 +1069,8 @@
         ],
         "Details": "אין להגיע למדינה זו ובמקרה של שהייה יש לעזוב את המדינה",
         "URL": "https://www.gov.il/he/pages/sinai1",
-        "HebrewName": "מצרים (חצי האי סיני)"
+        "HebrewName": "מצרים (חצי האי סיני)",
+        "EnglishName": "Egypt (Sinai Peninsula)"
     },
     "MEX": {
         "WarningLevels": [
@@ -960,7 +1078,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/mexi1",
-        "HebrewName": "מקסיקו"
+        "HebrewName": "מקסיקו",
+        "EnglishName": "Mexico"
     },
     "MAR": {
         "WarningLevels": [
@@ -968,7 +1087,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/morocco1",
-        "HebrewName": "מרוקו"
+        "HebrewName": "מרוקו",
+        "EnglishName": "Morocco"
     },
     "NRU": {
         "WarningLevels": [
@@ -976,7 +1096,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/nauru1",
-        "HebrewName": "נאורו"
+        "HebrewName": "נאורו",
+        "EnglishName": "Nauru"
     },
     "NOR": {
         "WarningLevels": [
@@ -984,7 +1105,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/norway1",
-        "HebrewName": "נורווגיה"
+        "HebrewName": "נורווגיה",
+        "EnglishName": "Norway"
     },
     "NGA": {
         "WarningLevels": [
@@ -993,7 +1115,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: צפון המדינה. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: דרום המדינה.",
         "URL": "https://www.gov.il/he/pages/nigeria1",
-        "HebrewName": "ניגריה"
+        "HebrewName": "ניגריה",
+        "EnglishName": "Nigeria"
     },
     "NZL": {
         "WarningLevels": [
@@ -1001,7 +1124,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/newzealand1",
-        "HebrewName": "ניו זילנד"
+        "HebrewName": "ניו זילנד",
+        "EnglishName": "New Zealand"
     },
     "NER": {
         "WarningLevels": [
@@ -1009,7 +1133,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/niger1",
-        "HebrewName": "ניז'ר"
+        "HebrewName": "ניז'ר",
+        "EnglishName": "Niger"
     },
     "NIC": {
         "WarningLevels": [
@@ -1017,7 +1142,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/nicaragua1",
-        "HebrewName": "ניקרגואה"
+        "HebrewName": "ניקרגואה",
+        "EnglishName": "Nicaragua"
     },
     "NAM": {
         "WarningLevels": [
@@ -1025,7 +1151,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/1namibia",
-        "HebrewName": "נמיביה"
+        "HebrewName": "נמיביה",
+        "EnglishName": "Namibia"
     },
     "NPL": {
         "WarningLevels": [
@@ -1033,7 +1160,8 @@
         ],
         "Details": "לאור מהומות במדינה יש להתעדכן באזהרת המסע של משרד החוץ.",
         "URL": "https://www.gov.il/he/pages/nepal1",
-        "HebrewName": "נפאל"
+        "HebrewName": "נפאל",
+        "EnglishName": "Nepal"
     },
     "STP": {
         "WarningLevels": [
@@ -1041,7 +1169,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/saotomeandprincipe1",
-        "HebrewName": "סאו טומה ופרינסיפ"
+        "HebrewName": "סאו טומה ופרינסיפ",
+        "EnglishName": "São Tomé and Príncipe"
     },
     "SDN": {
         "WarningLevels": [
@@ -1049,7 +1178,8 @@
         ],
         "Details": "להימנע מכל ביקור/שהייה במדינה",
         "URL": "https://www.gov.il/he/pages/sudan1",
-        "HebrewName": "סודאן"
+        "HebrewName": "סודאן",
+        "EnglishName": "Sudan"
     },
     "SWZ": {
         "WarningLevels": [
@@ -1057,7 +1187,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/swaziland1",
-        "HebrewName": "סוואזילנד"
+        "HebrewName": "סוואזילנד",
+        "EnglishName": "Eswatini"
     },
     "SOM": {
         "WarningLevels": [
@@ -1065,7 +1196,8 @@
         ],
         "Details": "להימנע מהגעה",
         "URL": "https://www.gov.il/he/pages/2somalia",
-        "HebrewName": "סומליה"
+        "HebrewName": "סומליה",
+        "EnglishName": "Somalia"
     },
     "SYR": {
         "WarningLevels": [
@@ -1073,7 +1205,8 @@
         ],
         "Details": "חל איסור על הגעת ישראלים לסוריה. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של סוריה.",
         "URL": "https://www.gov.il/he/pages/syria1",
-        "HebrewName": "סוריה"
+        "HebrewName": "סוריה",
+        "EnglishName": "Syria"
     },
     "SUR": {
         "WarningLevels": [
@@ -1081,7 +1214,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/surinam",
-        "HebrewName": "סורינאם"
+        "HebrewName": "סורינאם",
+        "EnglishName": "Suriname"
     },
     "SLE": {
         "WarningLevels": [
@@ -1089,7 +1223,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/sierraleone",
-        "HebrewName": "סיירה ליאונה"
+        "HebrewName": "סיירה ליאונה",
+        "EnglishName": "Sierra Leone"
     },
     "CHN": {
         "WarningLevels": [
@@ -1097,7 +1232,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/china2",
-        "HebrewName": "סין"
+        "HebrewName": "סין",
+        "EnglishName": "China"
     },
     "SGP": {
         "WarningLevels": [
@@ -1105,7 +1241,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/singapore1",
-        "HebrewName": "סינגפור"
+        "HebrewName": "סינגפור",
+        "EnglishName": "Singapore"
     },
     "SVN": {
         "WarningLevels": [
@@ -1113,7 +1250,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/slovenia1",
-        "HebrewName": "סלובניה"
+        "HebrewName": "סלובניה",
+        "EnglishName": "Slovenia"
     },
     "SVK": {
         "WarningLevels": [
@@ -1121,7 +1259,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/slovakia1",
-        "HebrewName": "סלובקיה"
+        "HebrewName": "סלובקיה",
+        "EnglishName": "Slovakia"
     },
     "WSM": {
         "WarningLevels": [
@@ -1129,7 +1268,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/samoa1",
-        "HebrewName": "סמואה"
+        "HebrewName": "סמואה",
+        "EnglishName": "Samoa"
     },
     "SMR": {
         "WarningLevels": [
@@ -1137,7 +1277,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/sanmarino1",
-        "HebrewName": "סן מרינו"
+        "HebrewName": "סן מרינו",
+        "EnglishName": "San Marino"
     },
     "SEN": {
         "WarningLevels": [
@@ -1145,7 +1286,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/senegal1",
-        "HebrewName": "סנגל"
+        "HebrewName": "סנגל",
+        "EnglishName": "Senegal"
     },
     "VCT": {
         "WarningLevels": [
@@ -1153,7 +1295,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/saintvincentandthegrenadines1",
-        "HebrewName": "סנט וינסנט והגרנדינס"
+        "HebrewName": "סנט וינסנט והגרנדינס",
+        "EnglishName": "Saint Vincent and the Grenadines"
     },
     "LCA": {
         "WarningLevels": [
@@ -1161,7 +1304,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/saintlucia1",
-        "HebrewName": "סנט לוסיה"
+        "HebrewName": "סנט לוסיה",
+        "EnglishName": "Saint Lucia"
     },
     "KNA": {
         "WarningLevels": [
@@ -1169,7 +1313,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/saintkittsandnevis1",
-        "HebrewName": "סנט קיטס ונוויס"
+        "HebrewName": "סנט קיטס ונוויס",
+        "EnglishName": "Saint Kitts and Nevis"
     },
     "ESP": {
         "WarningLevels": [
@@ -1177,7 +1322,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/spain1",
-        "HebrewName": "ספרד"
+        "HebrewName": "ספרד",
+        "EnglishName": "Spain"
     },
     "SRB": {
         "WarningLevels": [
@@ -1185,7 +1331,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/serbia1",
-        "HebrewName": "סרביה"
+        "HebrewName": "סרביה",
+        "EnglishName": "Serbia"
     },
     "LKA": {
         "WarningLevels": [
@@ -1193,7 +1340,8 @@
         ],
         "Details": "רמת איום מזדמן (רמה 2): יש לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/1srilanka",
-        "HebrewName": "סרי לנקה"
+        "HebrewName": "סרי לנקה",
+        "EnglishName": "Sri Lanka"
     },
     "OMN": {
         "WarningLevels": [
@@ -1201,7 +1349,8 @@
         ],
         "Details": "להימנע מכל ביקור/שהייה במדינה.",
         "URL": "https://www.gov.il/he/pages/oman1",
-        "HebrewName": "עומאן"
+        "HebrewName": "עומאן",
+        "EnglishName": "Oman"
     },
     "IRQ": {
         "WarningLevels": [
@@ -1209,7 +1358,8 @@
         ],
         "Details": "חל איסור על הגעת ישראלים לעיראק, כולל החבל הכורדי. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של עיראק.",
         "URL": "https://www.gov.il/he/pages/iraq1",
-        "HebrewName": "עיראק"
+        "HebrewName": "עיראק",
+        "EnglishName": "Iraq"
     },
     "SAU": {
         "WarningLevels": [
@@ -1217,7 +1367,8 @@
         ],
         "Details": "חל איסור על נסיעה",
         "URL": "https://www.gov.il/he/pages/saudiarabia1",
-        "HebrewName": "ערב הסעודית"
+        "HebrewName": "ערב הסעודית",
+        "EnglishName": "Saudi Arabia"
     },
     "PLW": {
         "WarningLevels": [
@@ -1225,7 +1376,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/palau1",
-        "HebrewName": "פאלאו"
+        "HebrewName": "פאלאו",
+        "EnglishName": "Palau"
     },
     "POL": {
         "WarningLevels": [
@@ -1233,7 +1385,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/poland1",
-        "HebrewName": "פולין"
+        "HebrewName": "פולין",
+        "EnglishName": "Poland"
     },
     "PRT": {
         "WarningLevels": [
@@ -1241,7 +1394,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/portugal1",
-        "HebrewName": "פורטוגל"
+        "HebrewName": "פורטוגל",
+        "EnglishName": "Portugal"
     },
     "FJI": {
         "WarningLevels": [
@@ -1249,7 +1403,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/fiji1",
-        "HebrewName": "פיג'י"
+        "HebrewName": "פיג'י",
+        "EnglishName": "Fiji"
     },
     "PHL": {
         "WarningLevels": [
@@ -1258,7 +1413,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4)- דרום המדינה: מומלץ להימנע מהגעה למרחב מינדנאו וקבוצת איי סולו בשל נוכחות ופעילות של ארגוני טרור;  איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי הפיליפינים.",
         "URL": "https://www.gov.il/he/pages/phillipines1",
-        "HebrewName": "פיליפינים"
+        "HebrewName": "פיליפינים",
+        "EnglishName": "Philippines"
     },
     "FIN": {
         "WarningLevels": [
@@ -1266,7 +1422,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/finland1",
-        "HebrewName": "פינלנד"
+        "HebrewName": "פינלנד",
+        "EnglishName": "Finland"
     },
     "PAN": {
         "WarningLevels": [
@@ -1274,7 +1431,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/panama1",
-        "HebrewName": "פנמה"
+        "HebrewName": "פנמה",
+        "EnglishName": "Panama"
     },
     "PNG": {
         "WarningLevels": [
@@ -1282,7 +1440,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/papuanewguinea1",
-        "HebrewName": "פפואה ניו גיני"
+        "HebrewName": "פפואה ניו גיני",
+        "EnglishName": "Papua New Guinea"
     },
     "PAK": {
         "WarningLevels": [
@@ -1290,7 +1449,8 @@
         ],
         "Details": "יש להימנע מהגעה לפקיסטאן. כמו כן, מומלץ להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של פקיסטאן.",
         "URL": "https://www.gov.il/he/pages/pakistan1",
-        "HebrewName": "פקיסטאן"
+        "HebrewName": "פקיסטאן",
+        "EnglishName": "Pakistan"
     },
     "PRY": {
         "WarningLevels": [
@@ -1298,7 +1458,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/paraguay1",
-        "HebrewName": "פרגוואי"
+        "HebrewName": "פרגוואי",
+        "EnglishName": "Paraguay"
     },
     "PER": {
         "WarningLevels": [
@@ -1307,7 +1468,8 @@
         ],
         "Details": "ללא אזהרת מסע (רמה 1) מומלץ לנקוט באמצעי זהירות רגילים: רוב שטחי המדינה איום בינוני (רמה 3) מומלץ להימנע מנסיעות שאינן חיוניות: אזור באזור  VRAEM ולאורך הגבול עם קולומביה.",
         "URL": "https://www.gov.il/he/pages/peru1",
-        "HebrewName": "פרו"
+        "HebrewName": "פרו",
+        "EnglishName": "Peru"
     },
     "MKD": {
         "WarningLevels": [
@@ -1315,7 +1477,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/northmacedonia1",
-        "HebrewName": "צפון מקדוניה"
+        "HebrewName": "צפון מקדוניה",
+        "EnglishName": "North Macedonia"
     },
     "TCD": {
         "WarningLevels": [
@@ -1323,7 +1486,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/chad1",
-        "HebrewName": "צ'אד"
+        "HebrewName": "צ'אד",
+        "EnglishName": "Chad"
     },
     "CHL": {
         "WarningLevels": [
@@ -1331,7 +1495,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/chile1",
-        "HebrewName": "צ'ילה"
+        "HebrewName": "צ'ילה",
+        "EnglishName": "Chile"
     },
     "CZE": {
         "WarningLevels": [
@@ -1339,7 +1504,8 @@
         ],
         "Details": "לנקוט האמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/czechrepublic1",
-        "HebrewName": "צ'כיה"
+        "HebrewName": "צ'כיה",
+        "EnglishName": "Czechia"
     },
     "FRA": {
         "WarningLevels": [
@@ -1347,7 +1513,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/france1",
-        "HebrewName": "צרפת"
+        "HebrewName": "צרפת",
+        "EnglishName": "France"
     },
     "RUS": {
         "WarningLevels": [
@@ -1356,7 +1523,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) לא להגיע לאזור צפון הקווקז, איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים בשאר שטחי המדינה",
         "URL": "https://www.gov.il/he/pages/russia2",
-        "HebrewName": "רוסיה"
+        "HebrewName": "רוסיה",
+        "EnglishName": "Russia"
     },
     "CUB": {
         "WarningLevels": [
@@ -1364,7 +1532,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://preview.newgov.gov.il/he/pages/cuba1",
-        "HebrewName": "קובה"
+        "HebrewName": "קובה",
+        "EnglishName": "Cuba"
     },
     "COL": {
         "WarningLevels": [
@@ -1372,7 +1541,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/colombia1",
-        "HebrewName": "קולומביה"
+        "HebrewName": "קולומביה",
+        "EnglishName": "Colombia"
     },
     "XKX": {
         "WarningLevels": [
@@ -1380,7 +1550,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/kosovo1",
-        "HebrewName": "קוסובו"
+        "HebrewName": "קוסובו",
+        "EnglishName": "Kosovo"
     },
     "CRI": {
         "WarningLevels": [
@@ -1388,7 +1559,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/costrica1",
-        "HebrewName": "קוסטה ריקה"
+        "HebrewName": "קוסטה ריקה",
+        "EnglishName": "Costa Rica"
     },
     "COM": {
         "WarningLevels": [
@@ -1396,7 +1568,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/comoroislands",
-        "HebrewName": "קומורוס (איי קומרוס)"
+        "HebrewName": "קומורוס (איי קומרוס)",
+        "EnglishName": "Comoros"
     },
     "COD": {
         "WarningLevels": [
@@ -1405,7 +1578,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: מזרח המדינה, צפון המדינה ומחוזות קסאי בדרום. איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי קונגו.",
         "URL": "https://www.gov.il/he/pages/congo11",
-        "HebrewName": "קונגו (הרפובליקה הדמוקרטית)"
+        "HebrewName": "קונגו (הרפובליקה הדמוקרטית)",
+        "EnglishName": "Democratic Republic of the Congo"
     },
     "KOR": {
         "WarningLevels": [
@@ -1413,7 +1587,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/southkorea2",
-        "HebrewName": "קוריאה הדרומית"
+        "HebrewName": "קוריאה הדרומית",
+        "EnglishName": "South Korea"
     },
     "PRK": {
         "WarningLevels": [
@@ -1421,7 +1596,8 @@
         ],
         "Details": "להימנע מהגעה ולשוהים במדינה לצאת לאלתר",
         "URL": "https://www.gov.il/he/pages/northkorea1",
-        "HebrewName": "קוריאה הצפונית"
+        "HebrewName": "קוריאה הצפונית",
+        "EnglishName": "North Korea"
     },
     "KAZ": {
         "WarningLevels": [
@@ -1429,7 +1605,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/kazakhstan1",
-        "HebrewName": "קזחסטן"
+        "HebrewName": "קזחסטן",
+        "EnglishName": "Kazakhstan"
     },
     "QAT": {
         "WarningLevels": [
@@ -1437,7 +1614,8 @@
         ],
         "Details": "להימנע מכל ביקור/שהייה במדינה",
         "URL": "https://www.gov.il/he/pages/qatar1",
-        "HebrewName": "קטאר"
+        "HebrewName": "קטאר",
+        "EnglishName": "Qatar"
     },
     "CPV": {
         "WarningLevels": [
@@ -1445,7 +1623,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/capeverde1",
-        "HebrewName": "קייפ ורדה"
+        "HebrewName": "קייפ ורדה",
+        "EnglishName": "Cape Verde"
     },
     "KGZ": {
         "WarningLevels": [
@@ -1453,7 +1632,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/kyrgyzstan1",
-        "HebrewName": "קירגיזסטן"
+        "HebrewName": "קירגיזסטן",
+        "EnglishName": "Kyrgyzstan"
     },
     "KIR": {
         "WarningLevels": [
@@ -1461,7 +1641,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/kiribati1",
-        "HebrewName": "קיריבטי"
+        "HebrewName": "קיריבטי",
+        "EnglishName": "Kiribati"
     },
     "KHM": {
         "WarningLevels": [
@@ -1469,7 +1650,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/cambodia1",
-        "HebrewName": "קמבודיה"
+        "HebrewName": "קמבודיה",
+        "EnglishName": "Cambodia"
     },
     "CMR": {
         "WarningLevels": [
@@ -1478,7 +1660,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: צפון המדינה לאור נוכחות ארגון הטרור \"בוקו חראם\". איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי המדינה.",
         "URL": "https://preview.newgov.gov.il/he/pages/cameroon",
-        "HebrewName": "קמרון"
+        "HebrewName": "קמרון",
+        "EnglishName": "Cameroon"
     },
     "CAN": {
         "WarningLevels": [
@@ -1486,7 +1669,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/canada1",
-        "HebrewName": "קנדה"
+        "HebrewName": "קנדה",
+        "EnglishName": "Canada"
     },
     "KEN": {
         "WarningLevels": [
@@ -1495,7 +1679,8 @@
         ],
         "Details": "רמת איום בינונית (רמה 3) מומלץ להימנע מנסיעות שאינן חיוניות לצפון ומזרח המדינה (אזור הגבול עם סומליה ורצועת החוף עד מלינדי-כולל), לאור נוכחות ארגוני טרור אסלאמי (אלשבאב הסומלי); איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר חלקי המדינה.",
         "URL": "https://www.gov.il/he/pages/kenya1",
-        "HebrewName": "קניה"
+        "HebrewName": "קניה",
+        "EnglishName": "Kenya"
     },
     "CYP": {
         "WarningLevels": [
@@ -1503,7 +1688,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/cyprus1",
-        "HebrewName": "קפריסין"
+        "HebrewName": "קפריסין",
+        "EnglishName": "Cyprus"
     },
     "HRV": {
         "WarningLevels": [
@@ -1511,7 +1697,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/croatia1",
-        "HebrewName": "קרואטיה"
+        "HebrewName": "קרואטיה",
+        "EnglishName": "Croatia"
     },
     "RWA": {
         "WarningLevels": [
@@ -1519,7 +1706,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/rwanda1",
-        "HebrewName": "רואנדה"
+        "HebrewName": "רואנדה",
+        "EnglishName": "Rwanda"
     },
     "ROU": {
         "WarningLevels": [
@@ -1527,7 +1715,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/romania1",
-        "HebrewName": "רומניה"
+        "HebrewName": "רומניה",
+        "EnglishName": "Romania"
     },
     "SWE": {
         "WarningLevels": [
@@ -1535,7 +1724,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות מוגברים",
         "URL": "https://www.gov.il/he/pages/sweden1",
-        "HebrewName": "שוודיה"
+        "HebrewName": "שוודיה",
+        "EnglishName": "Sweden"
     },
     "CHE": {
         "WarningLevels": [
@@ -1543,7 +1733,8 @@
         ],
         "Details": "לנקוט באמצעי זהירות רגילים",
         "URL": "https://www.gov.il/he/pages/switzerland1",
-        "HebrewName": "שווייץ"
+        "HebrewName": "שווייץ",
+        "EnglishName": "Switzerland"
     },
     "THA": {
         "WarningLevels": [
@@ -1552,7 +1743,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה דרום המדינה (לא כולל האיים). איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים: שאר שטחי תאילנד.",
         "URL": "https://www.gov.il/he/pages/thailand1",
-        "HebrewName": "תאילנד"
+        "HebrewName": "תאילנד",
+        "EnglishName": "Thailand"
     },
     "TUN": {
         "WarningLevels": [
@@ -1560,7 +1752,8 @@
         ],
         "Details": "רמת איום גבוהה (רמה 4) מומלץ להימנע מהגעה: לאור חשש מפעילות ארגוני טרור בפרט במערב המדינה, המרחב הסמוך לגבולות עם אלג'יריה ולוב ושטחי דרום המדינה.",
         "URL": "https://www.gov.il/he/pages/1tunisia",
-        "HebrewName": "תוניסיה"
+        "HebrewName": "תוניסיה",
+        "EnglishName": "Tunisia"
     },
     "TUR": {
         "WarningLevels": [
@@ -1568,7 +1761,8 @@
         ],
         "Details": "אין להגיע למדינה זו ובמקרה של שהייה יש לעזוב את המדינה",
         "URL": "https://www.gov.il/he/pages/turkey1",
-        "HebrewName": "תורכיה"
+        "HebrewName": "תורכיה",
+        "EnglishName": "Turkey"
     },
     "TKM": {
         "WarningLevels": [
@@ -1576,7 +1770,8 @@
         ],
         "Details": "להימנע מנסיעות שאינן חיוניות",
         "URL": "https://www.gov.il/he/pages/turkmenistan1",
-        "HebrewName": "תורכמניסטן"
+        "HebrewName": "תורכמניסטן",
+        "EnglishName": "Turkmenistan"
     },
     "YEM": {
         "WarningLevels": [
@@ -1584,6 +1779,7 @@
         ],
         "Details": "חל איסור על הגעת ישראלים לתימן. כמו כן, יש להימנע משהייה בטיסה אשר מסלולה עובר מעל שטחה של תימן.",
         "URL": "https://www.gov.il/he/pages/yemen1",
-        "HebrewName": "תימן"
+        "HebrewName": "תימן",
+        "EnglishName": "Yemen"
     }
 }
