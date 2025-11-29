@@ -252,11 +252,11 @@ GOV_API_URLNAME_TO_ISO = {
     "1sudan": "SDN",
     "1somalia": "SOM",
     "syria": "SYR",
-    "sinai_peninsula": "NOT_ON_MAP",  # Doesn't exist as separate entity on map
+    "sinai_peninsula": "SINAI_NOT_ON_MAP",  # Doesn't exist as separate entity on map
     "oman": "OMN",
     "iraq": "IRQ",
     "pakistan": "PAK",
-    "chechnya": "NOT_ON_MAP",  # Doesn't exist as separate entity on map
+    "chechnya": "CHECHNYA_NOT_ON_MAP",  # Doesn't exist as separate entity on map
     "1north-korea": "PRK",
     "qatar": "QAT",
     "tunisia": "TUN",
@@ -335,12 +335,12 @@ GOV_API_URLNAME_TO_ISO = {
     "grenada": "GRD",
     "dominica": "DMA",
     "haiti": "HTI",
-    "hong-kong": "HKG",
+    "hong-kong": "HONG_KONG_NOT_ON_MAP",
     "hungary": "HUN",
     "honduras": "HND",
     "dominican-republic": "DOM",
     "1vietnam": "VNM",
-    "vatican": "VAT",
+    "vatican": "VATICAN_NOT_ON_MAP",
     "vanuatu": "VUT",
     "tuvalu": "TUV",
     "1tonga": "TON",

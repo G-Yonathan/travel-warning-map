@@ -628,7 +628,7 @@
             "HebrewName": "הולנד",
             "EnglishName": "Netherlands"
         },
-        "HKG": {
+        "HONG_KONG_NOT_ON_MAP": {
             "WarningLevels": [
                 1
             ],
@@ -691,7 +691,7 @@
             "HebrewName": "וייטנאם",
             "EnglishName": "Vietnam"
         },
-        "VAT": {
+        "VATICAN_NOT_ON_MAP": {
             "WarningLevels": [
                 1
             ],
@@ -1245,14 +1245,14 @@
             "HebrewName": "סינגפור",
             "EnglishName": "Singapore"
         },
-        "NOT_ON_MAP": {
+        "SINAI_NOT_ON_MAP": {
             "WarningLevels": [
                 4
             ],
-            "Details": "להימנע מהגעה",
-            "URL": "https://www.gov.il/he/pages/chechnyarussia",
-            "HebrewName": "צ'צניה (רוסיה)",
-            "EnglishName": "Chechnya (Russia)"
+            "Details": "אין להגיע למדינה זו ובמקרה של שהייה יש לעזוב את המדינה",
+            "URL": "https://www.gov.il/he/pages/sinai1",
+            "HebrewName": "מצרים (חצי האי סיני)",
+            "EnglishName": "Egypt (Sinai Peninsula)"
         },
         "SVN": {
             "WarningLevels": [
@@ -1526,6 +1526,15 @@
             "HebrewName": "צרפת",
             "EnglishName": "France"
         },
+        "CHECHNYA_NOT_ON_MAP": {
+            "WarningLevels": [
+                4
+            ],
+            "Details": "להימנע מהגעה",
+            "URL": "https://www.gov.il/he/pages/chechnyarussia",
+            "HebrewName": "צ'צניה (רוסיה)",
+            "EnglishName": "Chechnya (Russia)"
+        },
         "CUB": {
             "WarningLevels": [
                 1
@@ -1793,5 +1802,5 @@
             "EnglishName": "Yemen"
         }
     },
-    "timestamp": 1764403373
+    "timestamp": 1764405125
 }
