@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState, useRef } from "react"
 import { ComposableMap, Geographies, Geography, ZoomableGroup } from "react-simple-maps"
 import { Tooltip } from 'react-tooltip';
 import "./MapChart.css"
@@ -6,17 +6,34 @@ import "./MapChart.css"
 const geoUrl = "/ne_10m_land.geojson";
 const warningJsonURL = "https://raw.githubusercontent.com/G-Yonathan/travel-warning-map/refs/heads/master/scraper/clean.json";
 
-export default function MapChart() {
+export default function MapChart({ onTimestamp, onMissingCountries }) {
 
     const [dataMap, setDataMap] = useState({});
     const [colors, setColors] = useState({});
+    const geographiesRef = useRef([]);
 
     useEffect(() => {
         fetch(warningJsonURL)
             .then((res) => res.json())
-            .then(jsonData => setDataMap(jsonData))
+            .then(jsonData => {
+                setDataMap(jsonData.countries);
+                if (onTimestamp) onTimestamp(jsonData.timestamp);
+            })
             .catch((err) => console.error("Failed to load warning json", err))
     }, []);
+
+    useEffect(() => {
+        if (!dataMap || !geographiesRef.current) return;
+
+        const missing = Object.keys(dataMap).filter(code =>
+            !geographiesRef.current.some(geo => geo.id === code)
+        );
+
+        if (onMissingCountries) onMissingCountries(missing.map(code => ({
+            code,
+            ...dataMap[code]
+        })));
+    }, [dataMap])
 
     useEffect(() => {
         const s = getComputedStyle(document.documentElement)
@@ -77,6 +94,8 @@ export default function MapChart() {
         return patterns;
     };
 
+    if (!dataMap) return null;
+
     return (
         <div className="mapchart-wrapper">
             <svg width="0" height="0">
@@ -90,13 +109,16 @@ export default function MapChart() {
             >
                 <ZoomableGroup>
                     <Geographies geography={geoUrl}>
-                        {({ geographies }) =>
-                            geographies.map((geo) => {
+                        {({ geographies }) => {
+                            geographiesRef.current = geographies;
+                            return geographies.map((geo) => {
                                 const levels = dataMap[geo.id]?.WarningLevels || [];
                                 const sortedLevels = [...levels].sort((a, b) => a - b);
                                 const patternId = sortedLevels.length
                                     ? `url(#pattern-${sortedLevels.join("-")})`
                                     : "#D6D6DA";
+
+                                const url = dataMap[geo.id]?.URL
 
                                 return (
                                     <Geography
@@ -104,23 +126,25 @@ export default function MapChart() {
                                         geography={geo}
                                         style={{
                                             default: { fill: patternId },
-                                            hover: { fill: patternId, opacity: 0.7 },
+                                            hover: { fill: patternId, opacity: 0.7, cursor: url ? 'pointer' : 'not-allowed' },
                                             pressed: { fill: patternId },
                                         }}
                                         onClick={() => {
-                                            const url = dataMap[geo.id]?.URL
                                             if (url) {
                                                 window.open(url, "_blank")
                                             }
                                         }}
                                         data-tooltip-id="country-tooltip"
-                                        data-tooltip-html={`
-                                            <h3>${dataMap[geo.id]?.HebrewName}</h3>
-                                            <p>${dataMap[geo.id]?.Details}</p>
-                                        `}
+                                        data-tooltip-html={dataMap[geo.id] && `
+                                                            <div>
+                                                                <h3>${dataMap[geo.id]?.EnglishName}</h3>
+                                                                <p>${dataMap[geo.id]?.Details}</p>
+                                                            </div>
+                                                          `}
                                     />
                                 )
                             })
+                        }
                         }
                     </Geographies>
                 </ZoomableGroup>
@@ -129,10 +153,6 @@ export default function MapChart() {
             <Tooltip
                 id="country-tooltip"
                 float
-                style={{
-                    maxWidth: '250px',
-                    direction: "rtl"
-                }}
             />
 
         </div>

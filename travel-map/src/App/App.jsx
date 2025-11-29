@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import { Globe, Shield, Info, AlertTriangle, Menu, X } from "lucide-react";
+import { Globe, Shield, Info, AlertTriangle, Menu, X, ExternalLink } from "lucide-react";
 import MapChart from "../MapChart/MapChart"
 import About from "../About/About"
 import "./App.css"
@@ -26,6 +26,24 @@ function NavLinks({ activeView, setActiveView }) {
 export default function App() {
   const [isSidebarOpen, setSidebarOpen] = useState(false);
   const [activeView, setActiveView] = useState('map');
+  const [lastUpdate, setLastUpdate] = useState("");
+  const [missingCountries, setMissingCountries] = useState([]);
+
+  const calcAndSetLastUpdate = (epochSeconds) => {
+    const now = Date.now();
+    const deltaMs = now - epochSeconds * 1000;
+    const deltaMins = deltaMs / 60000;
+
+    if (deltaMins < 60) {
+      setLastUpdate(`${Math.floor(deltaMins)} min${Math.floor(deltaMins) !== 1 ? 's' : ''} ago`);
+    } else if (deltaMins / 60 < 24) {
+      const deltaHours = deltaMins / 60;
+      setLastUpdate(`${Math.floor(deltaHours)} hour${Math.floor(deltaHours) !== 1 ? 's' : ''} ago`);
+    } else {
+      const deltaDays = deltaMins / 60 / 24;
+      setLastUpdate(`${Math.floor(deltaDays)} day${Math.floor(deltaDays) !== 1 ? 's' : ''} ago`);
+    }
+  };
 
   return (
     <>
@@ -58,50 +76,80 @@ export default function App() {
 
           {/* MAIN VIEW AREA */}
           <section className="main-view-area">
-            {activeView === 'map' ? <MapChart /> : <About />}
+            {activeView === 'map' ? <MapChart onTimestamp={calcAndSetLastUpdate} onMissingCountries={setMissingCountries} /> : <About />}
           </section>
 
           {/* SIDEBAR */}
           <aside className={`sidebar ${isSidebarOpen ? 'open' : ''}`}>
 
-            {/* Legend Section */}
-            <nav className="sidebar-section nav-mobile">
-              <NavLinks activeView={activeView} setActiveView={setActiveView} />
-            </nav>
+            {/* Sidebar Content */}
+            <div className="sidebar-content">
+              {/* Legend Section */}
+              <nav className="sidebar-section nav-mobile">
+                <NavLinks activeView={activeView} setActiveView={setActiveView} />
+              </nav>
 
-            {/* Legend Section */}
-            <div className="sidebar-section">
-              <h2 className="sidebar-title">
-                <Shield size={18} className="highlight" />
-                Advisory Levels
-              </h2>
-              <div className="legend-grid">
-                <div className="legend-item">
-                  <span className="dot" style={{ background: 'var(--level-1)' }}></span>
-                  <span>Take Basic Precautionary Measures</span>
+              {/* Legend Section */}
+              <div className="sidebar-section">
+                <h2 className="sidebar-title">
+                  <Shield size={18} className="highlight" />
+                  Advisory Levels
+                </h2>
+                <div className="legend-grid">
+                  <div className="legend-item">
+                    <span className="dot" style={{ background: 'var(--level-1)' }}></span>
+                    <span>Take Basic Precautionary Measures</span>
+                  </div>
+                  <div className="legend-item">
+                    <span className="dot" style={{ background: 'var(--level-2)' }}></span>
+                    <span>Take Increased Precautionary Measures</span>
+                  </div>
+                  <div className="legend-item">
+                    <span className="dot" style={{ background: 'var(--level-3)' }}></span>
+                    <span>Avoid Unnecessary Travel To This Destination</span>
+                  </div>
+                  <div className="legend-item">
+                    <span className="dot" style={{ background: 'var(--level-4)' }}></span>
+                    <span>Travel To This Destination Is Prohibited. Those Who Are Already There Must Leave Immediately.</span>
+                  </div>
                 </div>
-                <div className="legend-item">
-                  <span className="dot" style={{ background: 'var(--level-2)' }}></span>
-                  <span>Take Increased Precautionary Measures</span>
+              </div>
+
+              {/* External Link Tip */}
+              <div className="sidebar-section">
+                <div className="info-card">
+                  <ExternalLink size={15} />
+                  Click on a country for more info from gov.il
                 </div>
-                <div className="legend-item">
-                  <span className="dot" style={{ background: 'var(--level-3)' }}></span>
-                  <span>Avoid Unnecessary Travel To This Destination</span>
+              </div>
+
+              {/* Missing Countries Section */}
+              <div className="sidebar-section">
+                <h2 className="sidebar-title">
+                  <AlertTriangle size={18} className="highlight" />
+                  Missing Countries/Territories
+                </h2>
+
+                <div className="missing-list">
+                  {missingCountries.map((country) => (
+                    <div key={country.code} className="info-card">
+                      <a href={country.URL} target="_blank" rel="noopener noreferrer">
+                        {country.EnglishName}
+                      </a>
+                    </div>
+                  ))}
                 </div>
-                <div className="legend-item">
-                  <span className="dot" style={{ background: 'var(--level-4)' }}></span>
-                  <span>Travel To This Destination Is Prohibited. Those Who Are Already There Must Leave Immediately.</span>
-                </div>
+              </div>
+
+
+              {/* Last Update Section */}
+              <div className="sidebar-section">
+                <div className="info-card">Last update: {lastUpdate}</div>
               </div>
             </div>
 
-            {/* Information Section */}
-            <div className="sidebar-section">
-              <div className="info-card">Last update: 2 hours ago (TODO)</div>
-            </div>
-
-            {/* Footer */}
-            <div className="footer-note">
+            {/* Sidebar Footer */}
+            <div className="sidebar-footer">
               Created by <a href="https://github.com/G-Yonathan" target="_blank">G-Yonathan</a><br />
             </div>
 
