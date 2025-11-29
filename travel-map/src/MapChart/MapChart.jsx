@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from "react"
+import React, { useEffect, useState } from "react"
 import { ComposableMap, Geographies, Geography, ZoomableGroup } from "react-simple-maps"
 import { Tooltip } from 'react-tooltip';
 import "./MapChart.css"
@@ -8,9 +8,9 @@ const warningJsonURL = "https://raw.githubusercontent.com/G-Yonathan/travel-warn
 
 export default function MapChart({ onTimestamp, onMissingCountries }) {
 
-    const [dataMap, setDataMap] = useState({});
+    const [dataMap, setDataMap] = useState(null);
+    const [geoData, setGeoData] = useState(null)
     const [colors, setColors] = useState({});
-    const geographiesRef = useRef([]);
 
     useEffect(() => {
         fetch(warningJsonURL)
@@ -23,17 +23,29 @@ export default function MapChart({ onTimestamp, onMissingCountries }) {
     }, []);
 
     useEffect(() => {
-        if (!dataMap || !geographiesRef.current) return;
+        fetch(geoUrl)
+            .then((res) => res.json())
+            .then((data) => {
+                setGeoData(data);
+            })
+            .catch((err) => console.error("Failed to load geo json", err));
+    }, []);
+
+    useEffect(() => {
+        if (!dataMap || !geoData) return;
+        const mapFeatures = geoData.objects.world.geometries;
 
         const missing = Object.keys(dataMap).filter(code =>
-            !geographiesRef.current.some(geo => geo.id === code)
+            !mapFeatures.some(geo => geo.id === code)
         );
 
-        if (onMissingCountries) onMissingCountries(missing.map(code => ({
-            code,
-            ...dataMap[code]
-        })));
-    }, [dataMap])
+        if (onMissingCountries) {
+            onMissingCountries(missing.map(code => ({
+                code,
+                ...dataMap[code]
+            })));
+        }
+    }, [dataMap, geoData])
 
     useEffect(() => {
         const s = getComputedStyle(document.documentElement)
@@ -48,20 +60,9 @@ export default function MapChart({ onTimestamp, onMissingCountries }) {
     const generatePatterns = () => {
         const patterns = [];
         const levelCombinations = [
-            [1],
-            [2],
-            [3],
-            [4],
-            [1, 2],
-            [1, 3],
-            [1, 4],
-            [2, 3],
-            [2, 4],
-            [3, 4],
-            [1, 2, 3],
-            [1, 2, 4],
-            [1, 3, 4],
-            [2, 3, 4],
+            [1], [2], [3], [4],
+            [1, 2], [1, 3], [1, 4], [2, 3], [2, 4], [3, 4],
+            [1, 2, 3], [1, 2, 4], [1, 3, 4], [2, 3, 4],
             [1, 2, 3, 4],
         ];
 
@@ -108,9 +109,8 @@ export default function MapChart({ onTimestamp, onMissingCountries }) {
                 }}
             >
                 <ZoomableGroup>
-                    <Geographies geography={geoUrl}>
+                    <Geographies geography={geoData}>
                         {({ geographies }) => {
-                            geographiesRef.current = geographies;
                             return geographies.map((geo) => {
                                 const levels = dataMap[geo.id]?.WarningLevels || [];
                                 const sortedLevels = [...levels].sort((a, b) => a - b);
