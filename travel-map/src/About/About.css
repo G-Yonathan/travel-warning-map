@@ -18,3 +18,9 @@
 
 .about-content h2 { margin-bottom: 20px; color: var(--color-text-main); }
 .about-content p { margin-bottom: 16px; line-height: 1.6; color: var(--color-text-muted); }
+
+.soft-hr {
+  border: none;
+  border-top: 1px solid rgba(0, 0, 0, 0.1); /* soft gray line */
+  margin: 1em 0; /* spacing above and below */
+}
