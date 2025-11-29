@@ -126,12 +126,12 @@ export default function MapChart({ onTimestamp, onMissingCountries }) {
                                         geography={geo}
                                         style={{
                                             default: { fill: patternId },
-                                            hover: { fill: patternId, opacity: 0.7, cursor: url ? 'pointer' : 'not-allowed' },
+                                            hover: { fill: patternId, opacity: 0.7, cursor: url ? 'pointer' : 'default' },
                                             pressed: { fill: patternId },
                                         }}
                                         onClick={() => {
                                             if (url) {
-                                                window.open(url, "_blank")
+                                                window.open(url, "_blank", "noopener,noreferrer");
                                             }
                                         }}
                                         data-tooltip-id="country-tooltip"

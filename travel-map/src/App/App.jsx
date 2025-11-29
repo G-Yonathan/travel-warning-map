@@ -1,5 +1,5 @@
-import React, { useState } from "react"
-import { Globe, Shield, Info, AlertTriangle, Menu, X, ExternalLink } from "lucide-react";
+import React, { useState, useRef, useEffect } from "react"
+import { Globe, Shield, Info, AlertTriangle, Menu, X, ExternalLink, ChevronDown, ChevronUp } from "lucide-react";
 import MapChart from "../MapChart/MapChart"
 import About from "../About/About"
 import "./App.css"
@@ -28,6 +28,8 @@ export default function App() {
   const [activeView, setActiveView] = useState('map');
   const [lastUpdate, setLastUpdate] = useState("");
   const [missingCountries, setMissingCountries] = useState([]);
+  const [showMissing, setShowMissing] = useState(false);
+  const missingListRef = useRef(null);
 
   const calcAndSetLastUpdate = (epochSeconds) => {
     const now = Date.now();
@@ -44,6 +46,12 @@ export default function App() {
       setLastUpdate(`${Math.floor(deltaDays)} day${Math.floor(deltaDays) !== 1 ? 's' : ''} ago`);
     }
   };
+
+  useEffect(() => {
+    if (showMissing && missingListRef.current) {
+        missingListRef.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }, [showMissing]);
 
   return (
     <>
@@ -117,9 +125,14 @@ export default function App() {
 
               {/* External Link Tip */}
               <div className="sidebar-section">
-                <div className="info-card">
-                  <ExternalLink size={15} />
-                  Click on a country for more info from gov.il
+                <div className="tip-card">
+                  <div className="tip-icon-box">
+                    <ExternalLink size={16} />
+                  </div>
+                  <div className="tip-content">
+                    <span className="tip-label">tip</span>
+                    <span className="tip-message">Click on a country to view its official travel advisory on <strong>gov.il</strong>.</span>
+                  </div>
                 </div>
               </div>
 
@@ -130,15 +143,28 @@ export default function App() {
                   Missing Countries/Territories
                 </h2>
 
-                <div className="missing-list">
-                  {missingCountries.map((country) => (
-                    <div key={country.code} className="info-card">
-                      <a href={country.URL} target="_blank" rel="noopener noreferrer">
-                        {country.EnglishName}
-                      </a>
-                    </div>
-                  ))}
+                <div className="missing-summary">
+                  <p>There are {missingCountries.length} countries/territories not visible on the map.</p>
+                  <button
+                    className="toggle-missing-btn"
+                    onClick={() => setShowMissing(!showMissing)}
+                  >
+                    {showMissing ? 'Close' : 'View'}
+                    {showMissing ? <ChevronUp size={14} /> : <ChevronDown size={14} />}
+                  </button>
                 </div>
+
+                {showMissing && (
+                  <div className="missing-list" ref={missingListRef}>
+                    {missingCountries.map((country) => (
+                      <div key={country.code} className="info-card">
+                        <a href={country.URL} target="_blank" rel="noopener noreferrer">
+                          {country.EnglishName}
+                        </a>
+                      </div>
+                    ))}
+                  </div>
+                )}
               </div>
 
 
@@ -150,7 +176,7 @@ export default function App() {
 
             {/* Sidebar Footer */}
             <div className="sidebar-footer">
-              Created by <a href="https://github.com/G-Yonathan" target="_blank">G-Yonathan</a><br />
+              Created by <a href="https://github.com/G-Yonathan" target="_blank" rel="noopener noreferrer">G-Yonathan</a><br />
             </div>
 
           </aside>

@@ -1,6 +1,6 @@
 .mapchart-wrapper {
   width: 100%;
-  background: white;
+  background: rgb(224, 242, 254);
   border-radius: 8px;
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
 }
