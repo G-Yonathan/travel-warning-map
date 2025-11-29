@@ -105,6 +105,13 @@ body {
   color: var(--color-primary);
 }
 
+.lang-btn {
+  border-inline-start: 1px solid var(--color-border);
+  padding-inline-start: 24px; 
+  padding-inline-end: 0;
+  margin-inline-start: 8px; 
+}
+
 .main-content {
   flex: 1;
   display: flex;
@@ -134,9 +141,21 @@ body {
 .sidebar-content {
   flex: 1;
   overflow-y: auto;
-  -webkit-mask-image: linear-gradient(to bottom, black 95%, transparent 100%);
-  mask-image: linear-gradient(to bottom, black 95%, transparent 100%);
   padding-bottom: 40px;
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    black 5%,
+    black 95%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    black 5%,
+    black 95%,
+    transparent 100%
+  );
 }
 
 .sidebar-footer {
@@ -191,13 +210,12 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
-  background: #f8faff;
-  border: 1px solid #dbeafe;
-  padding: 10px;
-  border-radius: 8px;
-  color: #1e40af;
-  font-size: 0.875rem;
-  line-height: 1.5;
+  background: transparent;
+  border: none;
+  border-inline-start: 3px solid #cbd5e1; 
+  padding-inline-start: 10px;
+  color: #64748b;
+  font-size: .85rem;
 }
 
 .tip-card {
@@ -288,6 +306,22 @@ body {
   to { opacity: 1; transform: translateY(0); }
 }
 
+.missing-country {
+  padding: 0.1rem 0;
+  font-size: 0.9rem;
+}
+
+.missing-country a {
+  text-decoration: none;
+  color: #555;
+  transition: color 0.2s;
+}
+
+.missing-country a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
 .mobile-menu-btn {
   display: none;
   background: none;
@@ -323,5 +357,11 @@ body {
     flex-direction: column;
     gap: 12px;
     padding: 16px 0;
+  }
+
+  .sidebar .lang-btn {
+    margin: 4px 0 0 0; 
+    padding: 12px 0 0 0;
+    border-top: 1px solid var(--color-border);
   }
 }

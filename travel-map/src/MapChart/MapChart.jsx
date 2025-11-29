@@ -1,13 +1,14 @@
 import React, { useEffect, useState } from "react"
 import { ComposableMap, Geographies, Geography, ZoomableGroup } from "react-simple-maps"
 import { Tooltip } from 'react-tooltip';
+import { useTranslation } from 'react-i18next';
 import "./MapChart.css"
 
 const geoUrl = "/ne_10m_land.geojson";
 const warningJsonURL = "https://raw.githubusercontent.com/G-Yonathan/travel-warning-map/refs/heads/master/scraper/clean.json";
 
 export default function MapChart({ onTimestamp, onMissingCountries }) {
-
+    const { t, i18n } = useTranslation();
     const [dataMap, setDataMap] = useState(null);
     const [geoData, setGeoData] = useState(null)
     const [colors, setColors] = useState({});
@@ -136,8 +137,8 @@ export default function MapChart({ onTimestamp, onMissingCountries }) {
                                         }}
                                         data-tooltip-id="country-tooltip"
                                         data-tooltip-html={dataMap[geo.id] && `
-                                                            <div>
-                                                                <h3>${dataMap[geo.id]?.EnglishName}</h3>
+                                                            <div dir="${i18n.language === 'he' ? 'rtl' : 'ltr'}">
+                                                                <h3>${i18n.language === 'he' ? dataMap[geo.id]?.HebrewName : dataMap[geo.id]?.EnglishName}</h3>
                                                                 <p>${dataMap[geo.id]?.Details}</p>
                                                             </div>
                                                           `}

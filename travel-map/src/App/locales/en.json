@@ -1,0 +1,44 @@
+{
+    "nav": {
+        "map": "Map",
+        "about": "About"
+    },
+    "time": {
+        "ago": "ago",
+        "min": "min",
+        "mins": "mins",
+        "hour": "hour",
+        "hours": "hours",
+        "day": "day",
+        "days": "days"
+    },
+    "sidebar": {
+        "advisory": {
+            "title": "Advisory Levels",
+            "level_1": "Take Basic Precautionary Measures",
+            "level_2": "Take Increased Precautionary Measures",
+            "level_3": "Avoid Unnecessary Travel To This Destination",
+            "level_4": "Travel To This Destination Is Prohibited. Those Who Are Already There Must Leave Immediately."
+        },
+        "tip": {
+            "label": "tip",
+            "message": "Click on a country to view its official travel advisory on"
+        },
+        "missing": {
+            "title": "Missing Countries/Territories",
+            "count_message": "There are {{count}} countries/territories not visible on the map.",
+            "view_btn": "View",
+            "close_btn": "Close"
+        },
+        "last_update": "Last update:",
+        "footer": {
+            "created_by": "Created by"
+        }
+    },
+    "about": {
+        "title": "About Azharot",
+        "description": "This application provides a visual map interface to view Israeli government travel warnings.",
+        "disclaimer_label": "Disclaimer:",
+        "disclaimer_text": "This tool is <1>not</1> an official source for government travel warnings. Rely exclusively on the <2>official source</2> before making travel plans."
+    }
+}
