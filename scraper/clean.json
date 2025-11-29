@@ -1069,9 +1069,9 @@
                 4
             ],
             "Details": "אין להגיע למדינה זו ובמקרה של שהייה יש לעזוב את המדינה",
-            "URL": "https://www.gov.il/he/pages/sinai1",
-            "HebrewName": "מצרים (חצי האי סיני)",
-            "EnglishName": "Egypt (Sinai Peninsula)"
+            "URL": "https://www.gov.il/he/pages/egypt1",
+            "HebrewName": "מצרים",
+            "EnglishName": "Egypt"
         },
         "MEX": {
             "WarningLevels": [
@@ -1244,6 +1244,15 @@
             "URL": "https://www.gov.il/he/pages/singapore1",
             "HebrewName": "סינגפור",
             "EnglishName": "Singapore"
+        },
+        "NOT_ON_MAP": {
+            "WarningLevels": [
+                4
+            ],
+            "Details": "להימנע מהגעה",
+            "URL": "https://www.gov.il/he/pages/chechnyarussia",
+            "HebrewName": "צ'צניה (רוסיה)",
+            "EnglishName": "Chechnya (Russia)"
         },
         "SVN": {
             "WarningLevels": [
@@ -1517,16 +1526,6 @@
             "HebrewName": "צרפת",
             "EnglishName": "France"
         },
-        "RUS": {
-            "WarningLevels": [
-                2,
-                4
-            ],
-            "Details": "רמת איום גבוהה (רמה 4) לא להגיע לאזור צפון הקווקז, איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים בשאר שטחי המדינה",
-            "URL": "https://www.gov.il/he/pages/russia2",
-            "HebrewName": "רוסיה",
-            "EnglishName": "Russia"
-        },
         "CUB": {
             "WarningLevels": [
                 1
@@ -1545,7 +1544,7 @@
             "HebrewName": "קולומביה",
             "EnglishName": "Colombia"
         },
-        "XKX": {
+        "XXK": {
             "WarningLevels": [
                 1
             ],
@@ -1719,6 +1718,16 @@
             "HebrewName": "רומניה",
             "EnglishName": "Romania"
         },
+        "RUS": {
+            "WarningLevels": [
+                2,
+                4
+            ],
+            "Details": "רמת איום גבוהה (רמה 4) לא להגיע לאזור צפון הקווקז, איום מזדמן (רמה 2) מומלץ לנקוט באמצעי זהירות מוגברים בשאר שטחי המדינה",
+            "URL": "https://www.gov.il/he/pages/russia2",
+            "HebrewName": "רוסיה",
+            "EnglishName": "Russia"
+        },
         "SWE": {
             "WarningLevels": [
                 2
@@ -1784,5 +1793,5 @@
             "EnglishName": "Yemen"
         }
     },
-    "timestamp": 1764399232
+    "timestamp": 1764403373
 }

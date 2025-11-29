@@ -252,11 +252,11 @@ GOV_API_URLNAME_TO_ISO = {
     "1sudan": "SDN",
     "1somalia": "SOM",
     "syria": "SYR",
-    "sinai_peninsula": "EGY",  # Mapped to Egypt parent
+    "sinai_peninsula": "NOT_ON_MAP",  # Doesn't exist as separate entity on map
     "oman": "OMN",
     "iraq": "IRQ",
     "pakistan": "PAK",
-    "chechnya": "RUS",  # Mapped to Russia parent
+    "chechnya": "NOT_ON_MAP",  # Doesn't exist as separate entity on map
     "1north-korea": "PRK",
     "qatar": "QAT",
     "tunisia": "TUN",
@@ -286,7 +286,7 @@ GOV_API_URLNAME_TO_ISO = {
     "denmark": "DNK",
     "1south_sudan": "SSD",
     "1netherlands": "NLD",
-    "republic_congo": "COG",  # Congo-Brazzaville
+    "republic_congo": "COG",
     "zimbabwe": "ZWE",
     "zambia": "ZMB",
     "tanzania": "TZA",
@@ -388,7 +388,7 @@ GOV_API_URLNAME_TO_ISO = {
     "1chile": "CHL",
     "czech": "CZE",
     "cuba": "CUB",
-    "cosova": "XKX",  # Common temporary code for Kosovo
+    "cosova": "XXK",
     "costa-rica": "CRI",
     "1south-korea": "KOR",
     "kiribati": "KIR",
@@ -409,7 +409,7 @@ GOV_API_URLNAME_TO_ISO = {
     "mozambique": "MOZ",
     "1nigeria": "NGA",
     "1philippines": "PHL",
-    "1congo": "COD",  # DR Congo
+    "1congo": "COD",
     "cameroun": "CMR",
     "1russia": "RUS",
     "1thailand": "THA",
