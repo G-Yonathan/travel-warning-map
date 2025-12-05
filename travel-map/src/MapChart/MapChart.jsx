@@ -105,9 +105,10 @@ export default function MapChart({ onTimestamp, onMissingCountries }) {
             </svg>
             <ComposableMap
                 projectionConfig={{
-                    scale: 170,
-                    center: [13, -12],
+                    scale: 230,
+                    center: [13, 5],
                 }}
+                className="map-component"
             >
                 <ZoomableGroup>
                     <Geographies geography={geoData}>

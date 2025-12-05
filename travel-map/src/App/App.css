@@ -148,7 +148,7 @@ body {
   overflow-y: auto;
   padding-bottom: 24px;
   min-height: 0;
-  /* -webkit-mask-image: linear-gradient(
+  -webkit-mask-image: linear-gradient(
     to bottom,
     transparent 0%,
     black 3%,
@@ -161,7 +161,7 @@ body {
     black 3%,
     black 97%,
     transparent 100%
-  ); */
+  );
 }
 
 .nav-mobile, 
