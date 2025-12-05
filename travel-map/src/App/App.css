@@ -135,25 +135,24 @@ body {
   flex-direction: column;
   box-shadow: -2px 0 5px rgba(0, 0, 0, 0.02);
   z-index: 5;
-  overflow-y: auto;
 }
 
 .sidebar-content {
   flex: 1;
   overflow-y: auto;
-  padding-bottom: 40px;
+  padding-bottom: 24px;
   -webkit-mask-image: linear-gradient(
     to bottom,
     transparent 0%,
-    black 5%,
-    black 95%,
+    black 3%,
+    black 97%,
     transparent 100%
   );
   mask-image: linear-gradient(
     to bottom,
     transparent 0%,
-    black 5%,
-    black 95%,
+    black 3%,
+    black 97%,
     transparent 100%
   );
 }
@@ -356,12 +355,14 @@ body {
     display: flex;
     flex-direction: column;
     gap: 12px;
-    padding: 16px 0;
+    padding: 16px;
+    border-bottom: 1px solid var(--color-border);
   }
 
   .sidebar .lang-btn {
     margin: 4px 0 0 0; 
     padding: 12px 0 0 0;
     border-top: 1px solid var(--color-border);
+    border-inline-start: none;
   }
 }

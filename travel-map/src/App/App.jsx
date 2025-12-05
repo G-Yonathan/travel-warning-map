@@ -150,7 +150,7 @@ export default function App() {
 
           {/* SIDEBAR */}
           <aside className={`sidebar ${isSidebarOpen ? 'open' : ''}`}>
-            <nav className="sidebar-section nav-mobile" dir={i18n.language === 'he' ? 'rtl' : 'ltr'}>
+            <nav className="nav-mobile" dir={i18n.language === 'he' ? 'rtl' : 'ltr'}>
               <NavLinks activeView={activeView} setActiveView={setActiveView} setSidebarOpen={setSidebarOpen} />
             </nav>
 
